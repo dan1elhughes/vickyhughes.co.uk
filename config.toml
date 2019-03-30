@@ -1,0 +1,36 @@
+baseURL = "https://victoriajanehughes.com"
+languageCode = "en-gb"
+title = "Victoria Jane Hughes"
+publishdir = "dist"
+copyright = "© 2019 Victoria Jane Hughes."
+assetdir = "."
+pluralizelisttitles = false
+sectionPagesMenu = "main"
+
+[params]
+contactEmail = "danhughes.dh+vjh@gmail.com"
+fontConfig = "Patrick+Hand|Lato"
+
+[params.unpkg]
+css = [
+	"normalize.css/normalize.css"
+]
+
+[params.social]
+instagram = "https://instagram.com/vickymadethis"
+kofi = "https://ko-fi.com/vickymadethis"
+
+[[menu.main]]
+identifier = "portfolio"
+url = "/portfolio/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+identifier = "contact"
+url = "/contact/"
+weight = 3
