@@ -9,7 +9,7 @@ sectionPagesMenu = "main"
 
 [params]
 contactEmail = "vicky.hughes@hotmail.com"
-fontConfig = "Patrick+Hand|Lato"
+fontConfig = "Roboto+Slab|Work+Sans"
 
 [params.unpkg]
 css = [
