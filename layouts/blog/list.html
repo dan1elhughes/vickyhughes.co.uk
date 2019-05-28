@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="mid-width">
+  {{ range .Pages }}
+  <div class="item">
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    {{ if not .Date.IsZero }}
+    <span>{{ .Date.Format .Site.Params.dateformat | upper }}</span> {{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

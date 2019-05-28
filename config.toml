@@ -10,6 +10,7 @@ sectionPagesMenu = "main"
 [params]
 contactEmail = "vicky.hughes@hotmail.com"
 fontConfig = "Roboto+Slab|Work+Sans"
+dateformat = "Jan 2, 2006"
 
 [params.unpkg]
 css = [
