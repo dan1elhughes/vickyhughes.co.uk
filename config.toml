@@ -6,6 +6,7 @@ copyright = "© 2019 Vicky Hughes."
 assetdir = "."
 pluralizelisttitles = false
 sectionPagesMenu = "main"
+googleAnalytics = "UA-142187310-1"
 
 [params]
 contactEmail = "vicky.hughes@hotmail.com"
