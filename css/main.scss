@@ -192,6 +192,7 @@ footer {
 }
 
 img.about {
+  width: 100%;
   max-width: 400px;
   margin: 2em;
   margin-left: 0;
@@ -204,16 +205,19 @@ img.about {
 input,
 textarea {
   width: 100%;
+  max-width: 100%;
+  resize: none;
   padding: 1rem;
   border: 1px solid grey;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  max-width: $mid-width;
-  min-width: $mid-width;
-
   &::placeholder {
     opacity: 0.33;
   }
+}
+
+textarea {
+  height: 10rem;
 }
 
 button {
