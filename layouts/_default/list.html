@@ -1,10 +1,10 @@
 {{ define "main" }}
 <article>
-<h2>LIST</h2>
-{{ range .Pages }}
-	<div class="item">
-		<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-	</div>
-{{ end }}
+  <h2>LIST</h2>
+  {{ range .Pages }}
+  <div class="item">
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+  </div>
+  {{ end }}
 </article>
 {{ end }}

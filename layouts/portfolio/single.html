@@ -1,13 +1,7 @@
 {{ define "main" }}
 <article class="porfolio mid-width">
-	<h2>{{ .Title }}</h2>
-	<p>{{ .Date.Format "January 02, 2006" }}</p>
-	<div>
-		{{ .Content }}
-	</div>
-	{{ range .Resources.ByType "image" }}
-		{{ $image := .Fit "800x600" }}
-		<img src="{{ $image.RelPermalink }}">
-	{{ end }}
+  <h2>{{ .Title }}</h2>
+  <p>{{ .Date.Format "January 02, 2006" }}</p>
+  <div>{{ .Content }}</div>
 </article>
 {{ end }}

@@ -1,16 +1,20 @@
 baseURL = "https://victoriajanehughes.com"
 languageCode = "en-gb"
-title = "Victoria Jane Hughes"
+title = "Vicky Hughes"
 publishdir = "dist"
-copyright = "© 2019 Victoria Jane Hughes."
+copyright = "© 2019 Vicky Hughes."
 assetdir = "."
 pluralizelisttitles = false
 sectionPagesMenu = "main"
 
 [params]
 contactEmail = "vicky.hughes@hotmail.com"
-fontConfig = "Roboto+Slab|Work+Sans"
+fontConfig = "Raleway|Libre+Franklin"
 dateformat = "Jan 2, 2006"
+
+[params.banner]
+text = "Shop on Etsy"
+link = "https://www.etsy.com/uk/shop/VictoriaIllustration"
 
 [params.unpkg]
 css = [
@@ -19,7 +23,8 @@ css = [
 
 [params.social]
 instagram = "https://instagram.com/vickymadethis"
-kofi = "https://ko-fi.com/vickymadethis"
+etsy = "https://www.etsy.com/uk/shop/VictoriaIllustration"
+pinterest = "https://www.pinterest.co.uk/vickymadethis"
 
 [[menu.main]]
 identifier = "portfolio"

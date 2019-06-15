@@ -1,52 +1,68 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-		<link rel="icon" type="image/png" href="/images/icon.png" />
+    <link rel="icon" type="image/png" href="/images/icon.png" />
 
-		<!-- Page-set redirects -->
-		{{ if .Params.redirect }}<meta http-equiv="refresh" content="0;URL='{{ .Params.redirect }}'" />{{ end }}
+    <!-- Page-set redirects -->
+    {{ if .Params.redirect }}
+    <meta http-equiv="refresh" content="0;URL='{{ .Params.redirect }}'" />
+    {{ end }}
 
-		<!-- Auto-generated Hugo generated-by tags -->
-		{{ .Hugo.Generator }}
+    <!-- Auto-generated Hugo generated-by tags -->
+    {{ .Hugo.Generator }}
 
-		<!-- RSS feed support -->
-		{{ range .AlternativeOutputFormats -}}
-			<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
-		{{ end }}
+    <!-- RSS feed support -->
+    {{ range .AlternativeOutputFormats -}}
+    <link
+      rel="{{ .Rel }}"
+      type="{{ .MediaType.Type }}"
+      href="{{ .Permalink | safeURL }}"
+    />
+    {{ end }}
 
-		<!-- External CSS dependencies -->
-		{{ range .Site.Params.Unpkg.Css -}}
-			<link rel="stylesheet" href="https://unpkg.com/{{.}}" >
-		{{ end }}
+    <!-- External CSS dependencies -->
+    {{ range .Site.Params.Unpkg.Css -}}
+    <link rel="stylesheet" href="https://unpkg.com/{{.}}" />
+    {{ end }}
 
-		<!-- Fontawesome -->
-		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <!-- Fontawesome -->
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+      integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+      crossorigin="anonymous"
+    />
 
-		<!-- Compiled sass output -->
-		{{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
-		{{ $style := resources.Get "css/main.scss" | toCSS $options | fingerprint -}}
-		<link rel="stylesheet" href="{{ $style.Permalink | relURL }}" integrity="{{ $style.Data.Integrity }}">
+    <!-- Compiled sass output -->
+    {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
+    {{ $style := resources.Get "css/main.scss" | toCSS $options | fingerprint }}
+    <link
+      rel="stylesheet"
+      href="{{ $style.Permalink | relURL }}"
+      integrity="{{ $style.Data.Integrity }}"
+    />
 
-		<!-- Google fonts -->
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ .Site.Params.FontConfig | safeURL }}" >
-	</head>
-	<body>
-		{{ partial "header.html" . }}
-		<div class="wrapper">
-				{{ block "main" . }}{{ end }}
-		</div>
-		{{ partial "footer.html" . }}
-		{{ template "_internal/google_analytics_async.html" . }}
-	</div>
-	<!-- External JS dependencies -->
-	{{ range .Site.Params.Unpkg.Js -}}
-		<script src="https://unpkg.com/{{.}}" charset="utf-8"></script>
-	{{ end }}
-	<script src="/js/script.js" charset="utf-8"></script>
-	</body>
+    <!-- Google fonts -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family={{ .Site.Params.FontConfig | safeURL }}"
+    />
+  </head>
+  <body>
+    {{ partial "header.html" . }}
+    <div class="wrapper">{{ block "main" . }}{{ end }}</div>
+    {{ partial "footer.html" . }}
+    <div></div>
+    {{ template "_internal/google_analytics_async.html" . }}
+    <!-- External JS dependencies -->
+    {{ range .Site.Params.Unpkg.Js }}
+    <script src="https://unpkg.com/{{.}}" charset="utf-8"></script>
+    {{ end }}
+    <script src="/js/script.js" charset="utf-8"></script>
+  </body>
 </html>

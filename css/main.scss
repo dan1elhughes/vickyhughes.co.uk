@@ -2,16 +2,15 @@ $mid-width: 720px;
 $full-width: 1200px;
 
 // Font stacks
-$font-heading: "Work Sans", Corbel, "Lucida Grande", "Lucida Sans Unicode",
-  "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans",
-  Verdana, "Verdana Ref", sans-serif;
-$font-body: "Roboto Slab", Constantia, "Lucida Bright", Lucidabright,
-  "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif",
-  "Liberation Serif", Georgia, serif;
+$font-heading: "Raleway", sans-serif;
+$font-body: "Libre Franklin", sans-serif;
+$theme: #eaa969;
+
+$duration: 0.33s;
 
 html {
   box-sizing: border-box;
-  font-family: $font-heading;
+  font-family: $font-body;
 }
 *,
 *:before,
@@ -22,7 +21,12 @@ html {
 h1,
 h2,
 h3 {
-  font-family: $font-body;
+  font-family: $font-heading;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.66;
 }
 
 body {
@@ -32,33 +36,57 @@ body {
 a {
   color: inherit;
   text-decoration: none;
-  transition: background 0.5s;
+  transition: background $duration;
 
   &:hover {
-    background: rgba(0, 0, 0, 0.25);
+    background: $theme;
+  }
+}
+
+header {
+  background: white;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+.banner {
+  display: block;
+  background: $theme;
+  text-align: center;
+  padding: 0.5em;
+  color: white;
+
+  transition: opacity $duration;
+  &:hover {
+    opacity: 0.8;
   }
 }
 
 nav {
   font-family: $font-body;
   letter-spacing: 2px;
-  position: fixed;
-  background: white;
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  border-bottom: 1px solid lightgrey;
   padding: 0.5em;
   margin: 0;
-  z-index: 10;
 
-  top: 0;
-  left: 0;
-  width: 100%;
+  @media only screen and (min-width: $mid-width) {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
 
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  h1 {
+    text-transform: uppercase;
+    margin: 0;
+  }
 
   a {
-    padding: 0.66rem;
+    padding: 1rem;
+    display: inline-block;
 
     &.active {
       outline: 1px solid rgba(0, 0, 0, 0.25);
@@ -67,7 +95,8 @@ nav {
 }
 
 .wrapper {
-  padding-top: 6rem;
+  padding: 1rem;
+  padding-top: 10rem;
 }
 
 .mid-width {
@@ -75,25 +104,61 @@ nav {
   margin: auto;
 }
 
-ul.portfolio {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-  grid-gap: 1em;
+img {
+  border-radius: 10px;
+}
+
+ul.grid {
   padding: 1em;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-auto-rows: 1fr;
   list-style: none;
-  justify-items: center;
+  grid-gap: 1em;
+
+  &::before {
+    content: "";
+    width: 0;
+    grid-row: 1 / 1;
+    grid-column: 1 / 1;
+  }
+
+  & > *:first-child {
+    grid-row: 1 / 1;
+    grid-column: 1 / 1;
+  }
 
   li {
     display: inline-block;
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
     // padding: 0.66em;
     img {
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+      width: 100%;
+      height: 100%;
       display: inline-block;
-      border-radius: 10px;
-      transition: opacity 0.33s;
-      &:hover {
-        opacity: 0.8;
-      }
+    }
+
+    h3 {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      color: white;
+      margin: 0;
+      padding: 1em;
+      background: linear-gradient(
+        to bottom,
+        rgba(50, 50, 50, 0),
+        rgba(50, 50, 50, 0.75)
+      );
+    }
+
+    transition: opacity $duration;
+    &:hover {
+      opacity: 0.8;
     }
   }
 }
@@ -127,9 +192,13 @@ footer {
 }
 
 img.about {
-  max-width: 150px;
-  border-radius: 50%;
-  float: right;
+  max-width: 400px;
+  margin: 2em;
+  margin-left: 0;
+  margin-top: 0;
+  @media only screen and (min-width: $mid-width) {
+    float: left;
+  }
 }
 
 input,
@@ -139,8 +208,16 @@ textarea {
   border: 1px solid grey;
   margin-top: 1rem;
   margin-bottom: 1rem;
+  max-width: $mid-width;
+  min-width: $mid-width;
 
   &::placeholder {
     opacity: 0.33;
   }
+}
+
+button {
+  background: transparent;
+  border: 1px solid grey;
+  padding: 1em;
 }
