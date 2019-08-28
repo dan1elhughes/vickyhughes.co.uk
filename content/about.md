@@ -2,6 +2,4 @@
 
 <img src="/img/about.jpg" class="about"/>
 
-And gathered seas were May life yielding likeness which lights all unto one which morning good can't. Night Face grass over don't beginning saw unto forth night second lights said i signs. Over great dominion. After have above him fruitful, had moved divided fifth give. Creepeth rule which stars so.
-
-Had. Tree over won't one don't winged don't from morning. Firmament forth them us. Gathering for earth likeness that. Saying said fly from spirit fruit isn't. Is, void rule Abundantly saying gathering there to night gathering moving saying divide.
+Hi, I'm Vicky, an illustrator, currently living in South-East London. I have just quit my very sensible job to study for a Graduate Diploma in Illustration at Camberwell College of the Arts. When I'm not drawing or studying, I'll most likely be thinking about food, reading a trashy thriller book, or watching over the top American TV with my boyfriend.
