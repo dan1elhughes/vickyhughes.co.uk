@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "hugo server --buildDrafts --buildFuture --port 3000",
-    "prestart": "hugo --gc && opn http://localhost:3000",
+    "prestart": "hugo --gc && open-cli http://localhost:3000",
     "clean": "rimraf dist",
     "prepare": "npm run clean",
     "deploy": "surge --domain https://vickyhughes.co.uk dist"
@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/dan1elhughes/vickyhughes.co.uk#readme",
   "devDependencies": {
-    "opn-cli": "^4.0.0",
-    "rimraf": "^2.6.3",
-    "surge": "^0.20.3"
+    "open-cli": "^5.0.0",
+    "rimraf": "^3.0.0",
+    "surge": "^0.21.3"
   }
 }
