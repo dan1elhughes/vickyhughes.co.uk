@@ -61,12 +61,11 @@ nav {
   font-family: var(--font-body);
   letter-spacing: 2px;
   border-bottom: 1px solid lightgrey;
-  padding: 0.5em;
   margin: 0;
 }
-nav h1 {
-  text-transform: uppercase;
-  margin: 0;
+nav img {
+  max-height: 50px;
+  border-radius: 0;
 }
 nav a {
   padding: 1rem;
