@@ -1,6 +1,7 @@
 ---
 title: "Geometry club"
 date: 2019-03-25
+image: birthdaycard1.jpg
 ---
 
 ![](geometry-club.jpeg)

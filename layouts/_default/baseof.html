@@ -14,7 +14,7 @@
     {{ end }}
 
     <!-- Auto-generated Hugo generated-by tags -->
-    {{ .Hugo.Generator }}
+    {{ hugo.Generator }}
 
     <!-- RSS feed support -->
     {{ range .AlternativeOutputFormats -}}
@@ -38,14 +38,11 @@
       crossorigin="anonymous"
     />
 
-    <!-- Compiled sass output -->
-    {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
-    {{ $style := resources.Get "css/main.scss" | toCSS $options | fingerprint }}
-    <link
-      rel="stylesheet"
-      href="{{ $style.Permalink | relURL }}"
-      integrity="{{ $style.Data.Integrity }}"
-    />
+    {{ $cssVariables := resources.Get "css/variables.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $cssVariables.Permalink }}" integrity="{{ $cssVariables.Data.Integrity }}" />
+
+    {{ $cssMain := resources.Get "css/main.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $cssMain.Permalink }}" integrity="{{ $cssMain.Data.Integrity }}" /> />
 
     <!-- Google fonts -->
     <link

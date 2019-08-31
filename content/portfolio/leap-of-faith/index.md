@@ -1,6 +1,7 @@
 ---
 title: "Geometry club"
 date: 2019-03-25
+image: aleapoffaith2.JPG
 ---
 
 ![](geometry-club.jpeg)
