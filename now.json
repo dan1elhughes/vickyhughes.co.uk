@@ -4,5 +4,11 @@
   "alias": "vickyhughes.co.uk",
   "github": {
     "silent": true
-  }
+  },
+  "routes": [
+    {
+      "src": "/healthz",
+      "status": 200
+    }
+  ]
 }
