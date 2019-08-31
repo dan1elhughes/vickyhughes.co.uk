@@ -1,7 +1,6 @@
 baseURL = "https://vickyhughes.co.uk"
 languageCode = "en-gb"
 title = "Vicky Hughes"
-publishdir = "dist"
 copyright = "© 2019 Vicky Hughes."
 assetdir = "."
 pluralizelisttitles = false

@@ -5,10 +5,13 @@
   "main": "index.js",
   "scripts": {
     "start": "hugo server --buildDrafts --buildFuture --port 3000",
-    "prestart": "hugo --gc && open-cli http://localhost:3000",
-    "clean": "rimraf dist",
-    "prepare": "npm run clean",
-    "deploy": "surge --domain https://vickyhughes.co.uk dist"
+    "prestart": "npm run clean:all && open-cli http://localhost:3000",
+    "clean:public": "rimraf public",
+    "clean:cache": "hugo --gc",
+    "clean:all": "npm run clean:public && npm run clean:cache",
+    "deploy": "surge --domain https://vickyhughes.co.uk public",
+    "install:hugo": "curl -L -O https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz && tar -xzf hugo_0.55.6_Linux-64bit.tar.gz",
+    "build": "npm run install:hugo && ./hugo --minify"
   },
   "repository": {
     "type": "git",
