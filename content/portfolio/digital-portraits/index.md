@@ -1,5 +1,5 @@
 ---
-title: "Geometry club"
+title: "Digital portraits"
 date: 2019-03-25
 image: procreategirl1.JPG
 ---
