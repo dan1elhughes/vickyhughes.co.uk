@@ -1,6 +1,6 @@
 ---
-title: "Geometry club"
-date: 2019-03-25
+title: "A leap of faith"
+date: 2019-06-19
 image: aleapoffaith3.JPG
 ---
 
