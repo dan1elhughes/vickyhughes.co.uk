@@ -7,7 +7,7 @@ image: procreategirl1.JPG
 I use portraits to explore textures and techniques, in Procreate on the iPad Pro.
 
 ![](./procreategirl1.JPG)
-A "draw this in your style" challenge by Auna Amire.
+My response to a "draw this in your style" challenge, hosted by Auna Amire.
 
 
 ![](./procreategirl2.JPG)
