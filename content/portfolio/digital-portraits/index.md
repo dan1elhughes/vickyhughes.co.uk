@@ -1,6 +1,6 @@
 ---
 title: "Digital portraits"
-date: 2019-03-25
+date: 2019-08-21
 image: procreategirl1.JPG
 ---
 
