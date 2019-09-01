@@ -2,9 +2,18 @@
 <html>
   <head>
     <meta charset="utf-8" />
+
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta name="description" content="{{ .Summary }}">
+
+    <!-- https://gohugo.io/templates/internal/#open-graph -->
+    {{ template "_internal/opengraph.html" . }}
+
+    <!-- https://gohugo.io/templates/internal/#twitter-cards -->
+    {{ template "_internal/twitter_cards.html" . }}
 
     <link rel="icon" type="image/png" href="/images/icon.png" />
 
@@ -54,12 +63,13 @@
     {{ partial "header.html" . }}
     <div class="wrapper">{{ block "main" . }}{{ end }}</div>
     {{ partial "footer.html" . }}
-    <div></div>
+
+    <!-- https://gohugo.io/templates/internal/#google-analytics -->
     {{ template "_internal/google_analytics_async.html" . }}
+
     <!-- External JS dependencies -->
     {{ range .Site.Params.Unpkg.Js }}
-    <script src="https://unpkg.com/{{.}}" charset="utf-8"></script>
+      <script src="https://unpkg.com/{{.}}" charset="utf-8"></script>
     {{ end }}
-    <script src="/js/script.js" charset="utf-8"></script>
   </body>
 </html>
