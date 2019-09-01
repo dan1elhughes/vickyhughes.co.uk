@@ -11,6 +11,11 @@ This month has been really busy, looking back. I went to Prague, Blackpool and N
 
 I also went to a week-long summer school at the House of Illustration, focussed on people illustration. It was intense but really useful. I’m planning a separate blog about what I learned and how I’m developing my style for people, but here are some photos from the week for now:
 
+![Collages on day 1](F09A04AB-9626-4253-91B5-7B02B75E0CE3.jpeg)
+![Cartoonizing](894D018C-DDCE-446B-94EF-AF17B64F7B43.jpeg)
+![Life drawing](270C8D33-08EC-44C2-B089-318CE532D7AC.jpeg)
+![Greta portrait](8CCD5A9B-CA91-4C7D-B44D-0E65CD55E7DE.jpeg)
+
 Recently I read [this interview with mcbess](https://www.itsnicethat.com/features/mcbess-interview-illustration) which pleasantly surprised me. I’d love to make work that’s a detailed and “edgy” but thought this wouldn’t be commercially interesting, i.e. companies wouldn’t commission me for it. However, mcbess has a really dark and detailed style yet has worked with TFL and other companies. It’s inspired me to stop thinking about what will be commercially viable and make stuff for myself a bit more.
 
 Thanks for reading xx
