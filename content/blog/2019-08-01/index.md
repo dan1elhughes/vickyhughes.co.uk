@@ -1,6 +1,6 @@
 ---
 title: "August 2019"
-date: 2019-08-01T10:45:00Z
+date: 2019-09-01T10:45:00Z
 draft: false
 image: 894D018C-DDCE-446B-94EF-AF17B64F7B43.jpeg
 ---
