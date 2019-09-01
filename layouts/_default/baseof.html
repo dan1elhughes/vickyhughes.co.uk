@@ -39,10 +39,10 @@
     />
 
     {{ $cssVariables := resources.Get "css/variables.css" | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $cssVariables.Permalink }}" integrity="{{ $cssVariables.Data.Integrity }}" />
+    <link rel="stylesheet" href="{{ $cssVariables.RelPermalink }}" integrity="{{ $cssVariables.Data.Integrity }}" />
 
     {{ $cssMain := resources.Get "css/main.css" | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $cssMain.Permalink }}" integrity="{{ $cssMain.Data.Integrity }}" /> />
+    <link rel="stylesheet" href="{{ $cssMain.RelPermalink }}" integrity="{{ $cssMain.Data.Integrity }}" /> />
 
     <!-- Google fonts -->
     <link
