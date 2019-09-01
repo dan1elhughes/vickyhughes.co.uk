@@ -2,7 +2,7 @@
 title: "August 2019"
 date: 2019-09-01T10:45:00z
 draft: false
-image: 
+image: 894D018C-DDCE-446B-94EF-AF17B64F7B43.jpeg
 ---
 
 I've finished my full time job! I felt suuuper anxious about it, because I’ve been in this career (or studying towards it) for a very long time. But now I am really looking forward to not having to go to an office, or do data analysis every day.  It was bittersweet :)
