@@ -1,3 +1,7 @@
+---
+title: "About me"
+---
+
 ## About me
 
 <img src="/img/about.jpg" class="about"/>
