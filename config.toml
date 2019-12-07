@@ -12,9 +12,10 @@ contactEmail = "vicky.hughes@hotmail.com"
 fontConfig = "Raleway|Libre+Franklin"
 dateformat = "Jan 2, 2006"
 
-[params.banner]
-text = "Shop on Etsy"
-link = "https://www.etsy.com/uk/shop/VictoriaIllustration"
+## Uncomment to enable the top banner.
+# [params.banner]
+# text = "Shop on Etsy"
+# link = "https://www.etsy.com/uk/shop/VictoriaIllustration"
 
 [params.unpkg]
 css = [
