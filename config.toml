@@ -27,17 +27,17 @@ instagram = "https://instagram.com/vickymadethis"
 etsy = "https://www.etsy.com/uk/shop/VictoriaIllustration"
 pinterest = "https://www.pinterest.co.uk/vickymadethis"
 
-[[menu.main]]
+[[params.nav]]
 identifier = "portfolio"
 url = "/portfolio/"
 weight = 1
 
-[[menu.main]]
+[[params.nav]]
 identifier = "about"
 url = "/about/"
 weight = 2
 
-[[menu.main]]
+[[params.nav]]
 identifier = "contact"
 url = "/contact/"
 weight = 3
