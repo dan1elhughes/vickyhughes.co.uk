@@ -1,6 +1,6 @@
 ---
 title: "Street Talk: short animation"
-date: 
+date: 2020-01-19
 image: 19010393.png
 ---
 
