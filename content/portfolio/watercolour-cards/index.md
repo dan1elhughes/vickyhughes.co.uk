@@ -1,5 +1,5 @@
 ---
-title: "Watercolour food/birthday cards"
+title: "Watercolour cards"
 date: 2019-07-04
 image: birthdaycard1.jpg
 ---
