@@ -3,12 +3,21 @@ title: "Geckoboard homepage illustrations"
 date: 2019-12-12
 image: geckoboard-fortune-v3.png
 ---
+
+I was commissioned by Geckoboard, a tech startup company based in Shoreditch, for a set of four spot illustrations to illustrate their product's key benefits. I also created a hero illustration for their home page, to highlight their product. I drew all of these illustrations in a style to reflect their brand: friendly, hand-drawn, colourful, and human. 
+
 | ![Geckoboard homepage backpack illustration](Geckoboard-home-backpack.png)  | ![Geckoboard homepage report illustration](Geckoboard-home-report.png) |
 | ------------- | ------------- |
 | ![Geckoboard homepage fortune illustration](geckoboard-fortune-v3.png)  | ![Geckoboard homepage spotlight illustration](Geckoboard-home-spotlight.png)  |
 
+Here are the spot illustrations in place on the website (which you can find [here](https://www.geckoboard.com/)):
+
 ![Geckoboard homepage bullet point illustrations in place](geckoboard-homebullets-insitu.png)
+
+The hero illustration I created for the startup is now used across their website and product with various arrangements of the assets.
 ![Geckoboard hero illustration](geckoboard-hero-v6.svg)
+
+And here it is on the [homepage](geckoboard-homebullets-insitu.png): 
 ![Geckoboard hero illustration in place](geckoboard-hero-insitu.png)
 
 <!-->
