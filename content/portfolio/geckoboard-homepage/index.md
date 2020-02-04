@@ -17,7 +17,7 @@ Here are the spot illustrations in place on the website (which you can find [her
 The hero illustration I created for the startup is now used across their website and product with various arrangements of the assets.
 ![Geckoboard hero illustration](geckoboard-hero-v6.svg)
 
-For example, here is the illustration on the home page of their website (find it live [here](geckoboard-homebullets-insitu.png)): 
+For example, here is the illustration on the home page of their website (find it live [here](https://www.geckoboard.com/)): 
 ![Geckoboard hero illustration in place](geckoboard-hero-insitu.png)
 
 <!-->
