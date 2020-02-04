@@ -1,10 +1,16 @@
 ---
 title: "Geckoboard homepage illustrations"
 date: 2019-12-12
-image: gb-launch-linkedin-instagram.png
+image: Geckoboard-home-fortune.png
 ---
 
+![Geckoboard homepage backpack illustration](Geckoboard-home-backpack.png)
+![Geckoboard homepage fortune illustration](Geckoboard-home-fortune.png)
+![Geckoboard homepage report illustration](Geckoboard-home-report.png)
+![Geckoboard homepage spotlight illustration](Geckoboard-home-spotlight.png)
+![Geckoboard homepage bullet point illustrations in place](geckoboard-homebullets-insitu.png)
 ![Geckoboard hero illustration](gb-hero-v6.svg)
+![Geckoboard hero illustration in place](geckoboard-hero-insitu.png)
 
 <!-->
 ![Geckoboard launch illustration animated](gb-launch-blog-white.gif)
