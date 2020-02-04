@@ -1,5 +1,5 @@
 ---
-title: "Vote for pedro illustration"
+title: "Vote for Pedro illustration"
 date: 2019-12-13
 image: pedro-square.jpg
 ---
