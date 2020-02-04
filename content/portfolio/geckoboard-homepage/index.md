@@ -33,7 +33,3 @@ Check out the launch blog [here](https://www.geckoboard.com/blog/all-eyes-on-dat
 ![Geckoboard linkedin illustration](geckoboard-linkedin.png)
 ![Geckoboard instagram illustration](geckoboard-instagram.png)
 <-->
-
-<p align="center">
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/182841?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</p>
