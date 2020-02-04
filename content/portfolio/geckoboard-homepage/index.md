@@ -3,6 +3,9 @@ title: "Geckoboard homepage illustrations"
 date: 2019-12-12
 image: gb-launch-linkedin-instagram.png
 ---
+
+![Geckoboard hero illustration](gb-hero-v6.svg)
+
 <!-->
 ![Geckoboard launch illustration animated](gb-launch-blog-white.gif)
 
