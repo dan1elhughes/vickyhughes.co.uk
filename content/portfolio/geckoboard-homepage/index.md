@@ -1,15 +1,14 @@
 ---
 title: "Geckoboard homepage illustrations"
 date: 2019-12-12
-image: Geckoboard-fortune-v3.png
+image: geckoboard-fortune-v3.png
 ---
+| ![Geckoboard homepage backpack illustration](Geckoboard-home-backpack.png)  | ![Geckoboard homepage report illustration](Geckoboard-home-report.png) |
+| ------------- | ------------- |
+| ![Geckoboard homepage fortune illustration](geckoboard-fortune-v3.png)  | ![Geckoboard homepage spotlight illustration](Geckoboard-home-spotlight.png)  |
 
-![Geckoboard homepage backpack illustration](Geckoboard-home-backpack.png)
-![Geckoboard homepage fortune illustration](Geckoboard-fortune-v3.png)
-![Geckoboard homepage report illustration](Geckoboard-home-report.png)
-![Geckoboard homepage spotlight illustration](Geckoboard-home-spotlight.png)
 ![Geckoboard homepage bullet point illustrations in place](geckoboard-homebullets-insitu.png)
-![Geckoboard hero illustration](gb-hero-v6.svg)
+![Geckoboard hero illustration](gb-hero-v6.png)
 ![Geckoboard hero illustration in place](geckoboard-hero-insitu.png)
 
 <!-->
