@@ -8,7 +8,7 @@ image: geckoboard-fortune-v3.png
 | ![Geckoboard homepage fortune illustration](geckoboard-fortune-v3.png)  | ![Geckoboard homepage spotlight illustration](Geckoboard-home-spotlight.png)  |
 
 ![Geckoboard homepage bullet point illustrations in place](geckoboard-homebullets-insitu.png)
-![Geckoboard hero illustration](gb-hero-v6.png)
+![Geckoboard hero illustration](geckoboard-hero-v6.svg)
 ![Geckoboard hero illustration in place](geckoboard-hero-insitu.png)
 
 <!-->
