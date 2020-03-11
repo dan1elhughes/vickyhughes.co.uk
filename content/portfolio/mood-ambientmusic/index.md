@@ -1,5 +1,5 @@
 ---
-title: "The Therapuetic Power of Ambient Muaix"
+title: "The Therapuetic Power of Ambient Music"
 date: 2020-03-09
 image: IMG_1176.jpg
 ---
