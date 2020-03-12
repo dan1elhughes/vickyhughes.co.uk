@@ -2,6 +2,7 @@
 title: "Fun with faces challenge"
 date: 2020-03-11
 image: IMG_20200312_155121_241.jpg
+---
 ![Power woman](IMG_20200312_155121_241.jpg)
 
 ![Space woman GIF](IMG_1168.gif)
