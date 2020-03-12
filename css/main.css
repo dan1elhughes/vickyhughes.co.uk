@@ -1,5 +1,3 @@
-@import url("./variables.css");
-
 html {
   box-sizing: border-box;
   font-family: var(--font-body);
@@ -123,7 +121,6 @@ ul.grid li:hover {
 }
 
 ul.grid img {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   width: 100%;
   height: 100%;
   display: inline-block;
@@ -142,6 +139,10 @@ ul.grid h3 {
     rgba(50, 50, 50, 0),
     rgba(50, 50, 50, 0.75)
   );
+}
+
+.flex-container {
+  display: flex;
 }
 
 article img {
@@ -184,11 +185,6 @@ img.about {
   margin: 2em;
   margin-left: 0;
   margin-top: 0;
-}
-@media only screen and (min-width: var(--mid-width)) {
-  img.about {
-    float: left;
-  }
 }
 
 input,
