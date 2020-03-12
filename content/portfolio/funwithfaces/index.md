@@ -5,7 +5,7 @@ image: IMG_20200312_155121_241.jpg
 ---
 ![Power woman](IMG_20200312_155121_241.jpg)
 
-![Space woman GIF](IMG_1168.gif)
+![Space woman GIF](IMG_1166.gif)
 
 ![Self-care](IMG_1233.jpg)
 
