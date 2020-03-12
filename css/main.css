@@ -144,6 +144,10 @@ ul.grid h3 {
   );
 }
 
+.flex-container {
+  display: flex;
+}
+
 article img {
   object-fit: cover;
   max-width: 100%;
@@ -184,11 +188,6 @@ img.about {
   margin: 2em;
   margin-left: 0;
   margin-top: 0;
-}
-@media only screen and (min-width: var(--mid-width)) {
-  img.about {
-    float: left;
-  }
 }
 
 input,

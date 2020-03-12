@@ -41,3 +41,7 @@ weight = 2
 identifier = "contact"
 url = "/contact/"
 weight = 3
+
+# Enable inline HTML in Markdown files (Hugo >0.64)
+[markup.goldmark.renderer]
+unsafe = true
