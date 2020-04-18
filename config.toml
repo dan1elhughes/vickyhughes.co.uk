@@ -9,7 +9,7 @@ googleAnalytics = "UA-142187310-1"
 
 [params]
 contactEmail = "vicky.hughes@hotmail.com"
-fontConfig = "Raleway|Libre+Franklin"
+fontConfig = "Montserrat"
 dateformat = "Jan 2, 2006"
 
 ## Uncomment to enable the top banner.
