@@ -3,4 +3,11 @@ title: "About me"
 type: "about"
 ---
 
-I'm a freelance illustrator, currently studying for a Graduate Diploma in Illustration at Camberwell College of the Arts. I love drawing fun and playful characters, and I'm interested in escapism, the mind and emotional intelligence.
+I'm a freelance illustrator, currently studying for a Graduate Diploma in Illustration at Camberwell College of Arts.
+
+Until recently I had a very sensible job as a data scientist; first in the civil service (DfE and MOJ) and more recently in a tech startup. I'm still interested in innovation and public services, and must be one of the only freelance creatives who actually enjoys doing their accounts...
+
+I love drawing fun and playful characters, and I'm interested in escapism, the mind and emotional intelligence. I've illustrated for tech startups, childrens' books and online magazines. At the moment I'm particularly seeking editorial work.
+
+If you'd like to work together, please [get in touch](vicky.hughes@hotmail.com)!
+
