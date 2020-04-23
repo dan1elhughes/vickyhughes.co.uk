@@ -20,6 +20,4 @@ I also went to a week-long summer school at the House of Illustration, focussed 
 # What's inspiring me
 Recently I read [this interview with mcbess](https://www.itsnicethat.com/features/mcbess-interview-illustration) which pleasantly surprised me. I’d love to make work that’s a bit more detailed and “edgy” but thought this wouldn’t be commercially interesting, i.e. companies wouldn’t commission me for it. However, mcbess has a really dark and detailed style yet has worked with TFL and other companies. It’s inspired me to stop thinking about what will be commercially viable and make stuff for myself a bit more.
 
-You might notice this is a monthly rather than weekly blog - I almost immediately decided to stop doing the weekly ones after my first back in July. Better for everyone..
-
 Thanks for reading xx
