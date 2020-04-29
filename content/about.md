@@ -1,7 +1,8 @@
 ---
-title: "About me"
+title: " "
 type: "about"
 ---
+
 
 I'm a freelance illustrator, currently studying for a Graduate Diploma in Illustration at Camberwell College of Arts.
 
