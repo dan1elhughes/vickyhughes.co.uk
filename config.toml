@@ -21,10 +21,6 @@ dateformat = "Jan 2, 2006"
 css = [
 	"normalize.css/normalize.css"
 ]
-js = [
-	"imagesloaded@4/imagesloaded.pkgd.min.js",
-	"masonry-layout@4/dist/masonry.pkgd.min.js"
-]
 
 [params.social]
 instagram = "https://instagram.com/vickymadethis"

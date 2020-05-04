@@ -71,9 +71,5 @@
     {{ range .Site.Params.Unpkg.Js }}
       <script src="https://unpkg.com/{{.}}" charset="utf-8"></script>
     {{ end }}
-
-    {{ $js := resources.Get "js/main.js" }}
-    {{ $secureJS := $js | resources.Fingerprint "sha512" }}
-    <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
   </body>
 </html>
