@@ -9,7 +9,7 @@
           <div class="Image">
           {{ range .Resources.ByType "image" }}
             {{ if eq .Name $featured }}
-              {{ $image := .Resize "x700" }}
+              {{ $image := .Resize "x900" }}
               <img src="{{ $image.RelPermalink }}">
             {{ end }}
           {{ end }}
