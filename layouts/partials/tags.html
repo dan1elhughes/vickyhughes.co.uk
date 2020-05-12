@@ -1,0 +1,8 @@
+{{ with .Param "tags" }}
+{{ $last := sub (len .) 1 }}
+  <p class="tags">
+    {{ range $index, $tag := . -}}
+      <a href="/tags/{{ $tag | urlize }}/">{{ $tag }}</a>{{- if lt $index $last }},&nbsp;{{end}}
+    {{- end -}}
+  </p>
+{{ end }}
