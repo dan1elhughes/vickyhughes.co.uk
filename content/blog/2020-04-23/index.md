@@ -18,12 +18,12 @@ The editor of the magazine sent over this paragraph to describe the article. I i
 
 I went with an idea of a small figure desperately struggling to keep all the metrics, dials and gauges at the correct level; trying to optimise their body. 
 
-# Second version
+### Second version
 ![Becoming the perfect human](image29.jpg)
 
 I dabbled with putting the figure on a precarious stepladder, to make them feel really out of control. But then I decided to the client and they suggested integrating the figure to the panel, to drive home the point about the character monitoring themselves. The client preferred this approach, so we ended up with...
 
-# Final illustration
+### Final illustration
 ![Becoming the perfect human](insitu.png)
 
 You can check out the illustration in situ on the Mood magazine website - the article got tweaked to discuss self-improvement in isolation/lockdown, but our character still fits! Read it [here.](https://www.itsmoodmag.com/power/becoming-perfect-self-optimise)
