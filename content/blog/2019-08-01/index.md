@@ -2,7 +2,7 @@
 title: "August 2019"
 date: 2019-09-01T09:45:00Z
 draft: false
-image: 894D018C-DDCE-446B-94EF-AF17B64F7B43.jpeg
+image: 8CCD5A9B-CA91-4C7D-B44D-0E65CD55E7DE.jpeg
 ---
 
 ### What's new with me
