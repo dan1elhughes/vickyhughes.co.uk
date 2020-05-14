@@ -5,6 +5,8 @@ draft: false
 image: IMG_1186.jpg
 ---
 
+![Writing illo](IMG_1186.jpg)
+
 I was recently contacted by a Katrien Van de Put, a student from Belgium, for an interview - in case you'd like to know more about me and my process, here it is!
 
 
