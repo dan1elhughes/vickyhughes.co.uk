@@ -7,12 +7,12 @@ image: image42.jpg
 
 ![Becoming the perfect human](image42.jpg)
 
-# The brief
+### The brief
 ![Becoming the perfect human](brief.png)
 
 The editor of the magazine sent over this paragraph to describe the article. I immediately thought of my experiences with a Fitbit - obsessively tracking everything, even doing steps and star jumps around the room to "earn" a beer at one point. This was about 6 years ago and I've since learned Fitbits are not for me... Anyway, my concept was about tracking, dials and screens.
 
-# Initial sketch and digital version
+### Initial sketch and digital version
 ![Becoming the perfect human](image85.jpg)
 ![Becoming the perfect human](image24.jpg)
 
