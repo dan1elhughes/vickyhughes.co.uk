@@ -6,4 +6,6 @@ image: IMG_1176.jpg
 
 ![Therapuetic power of ambient music](IMG_1176.jpg)
 
-An editorial illustration for the lovely people at [MOOD mag](https://www.itsmoodmag.com/).
+An editorial illustration for the lovely people at [MOOD mag](https://www.itsmoodmag.com/culture/ambient-music-mental-health).
+
+![Therapuetic power of ambient music](ambient_insitu.png)
