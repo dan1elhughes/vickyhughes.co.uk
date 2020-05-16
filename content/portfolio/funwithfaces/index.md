@@ -2,6 +2,9 @@
 title: "Fun with faces challenge"
 date: 2020-03-11
 image: IMG_20200312_155121_241.jpg
+tags:
+  - Characters
+  - Personal work
 ---
 ![Power woman](IMG_20200312_155121_241.jpg)
 
