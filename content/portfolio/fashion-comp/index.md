@@ -2,6 +2,8 @@
 title: "Fashionistas"
 date: 2020-05-14
 image: IMG_1717.jpg
+tags:
+  - Personal work
 ---
 
 ![Fashion illustration](IMG_1717.jpg)
