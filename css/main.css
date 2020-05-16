@@ -88,6 +88,10 @@ nav a.active {
   margin: auto;
 }
 
+h2.tagTitle {
+  padding: 1rem;
+}
+
 ul.grid {
   padding: 0;
   width: 100%;
@@ -152,6 +156,10 @@ ul.grid h3 {
   }
 }
 
+article h2 {
+  margin-bottom: 0;
+}
+
 article img {
   object-fit: cover;
   max-width: 100%;
@@ -160,7 +168,7 @@ article img {
   margin: 2rem auto;
 }
 article div {
-  padding: 2em 0;
+  padding-bottom: 2em;
 }
 article a {
   border-bottom: 2px solid var(--theme);
@@ -168,6 +176,11 @@ article a {
 article time {
   display: block;
   opacity: 0.5;
+}
+
+article .tags {
+  margin-top: 0.33em;
+  font-size: 90%;
 }
 
 footer {
