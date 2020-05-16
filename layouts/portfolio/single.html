@@ -2,9 +2,7 @@
 
 {{ define "main" }}
 <article class="porfolio mid-width">
-  {{ partial "nextprev.html" . }}
-  <h2>{{ .Title }}</h2>
-  <time>{{ .Date.Format "January 02, 2006" }}</time>
+  {{ partial "titlesection.html" . }}
   <div>{{ .Content }}</div>
 </article>
 

@@ -176,11 +176,19 @@ article time {
   opacity: 0.5;
 }
 
-article .nextprev {
+article .titlesection {
   padding: 0;
-  color: grey;
   display: flex;
   justify-content: space-between;
+}
+article .titlesection a {
+  color: grey;
+  border-bottom: none;
+  padding: 0.5em;
+}
+article .titlesection .title {
+  padding: 0;
+  text-align: center;
 }
 
 footer {
