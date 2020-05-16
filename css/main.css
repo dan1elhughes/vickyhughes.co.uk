@@ -176,6 +176,13 @@ article time {
   opacity: 0.5;
 }
 
+article .nextprev {
+  padding: 0;
+  color: grey;
+  display: flex;
+  justify-content: space-between;
+}
+
 footer {
   text-align: center;
   padding: 2em;
