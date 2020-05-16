@@ -94,6 +94,10 @@ nav a.active {
   margin: auto;
 }
 
+h2.tagTitle {
+  padding: 1rem;
+}
+
 ul.grid {
   padding: 0;
   width: 100%;
