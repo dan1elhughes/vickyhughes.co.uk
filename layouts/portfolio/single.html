@@ -1,18 +1,13 @@
 {{ define "title" }}{{ .Title }} &ndash; {{ .Site.Title }}{{ end }}
 
 {{ define "main" }}
-<<<<<<< HEAD
-<article class="porfolio mid-width">
-  <h2>{{ .Title }}</h2>
-  {{ partial "tags.html" . }}
-  <div>{{ .Content }}</div>
-=======
 <article class="portfolio">
   <div class="split-container">
     <div class="left">
       <header>
-        {{ partial "titlesection.html" . }}
+        {{ partial "titlesection" . }}
       </header>
+      {{ partial "tags.html" . }}
       {{ .Content }}
     </div>
     <div class="right">
@@ -21,6 +16,5 @@
       {{ end }}
     </div>
   </div>
->>>>>>> 9c9a76b... New split portfolio layout
 </article>
 {{ end }}

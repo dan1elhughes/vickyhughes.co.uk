@@ -156,8 +156,6 @@ ul.grid h3 {
   }
 }
 
-article h2 {
-  margin-bottom: 0;
 article {
   padding: 2rem;
 }
@@ -168,8 +166,6 @@ article img {
   margin: 1rem auto;
   border-radius: 4px;
 }
-article div {
-  padding-bottom: 2em;
 article > div {
   padding: 2em 0;
 }
@@ -201,6 +197,7 @@ article time {
 article .tags {
   margin-top: 0.33em;
   font-size: 90%;
+}
 article .split-container {
   display: block;
 }
