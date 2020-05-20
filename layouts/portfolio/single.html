@@ -11,8 +11,7 @@
   <div class="split-container">
     <div class="left">
       <header>
-        <h2>{{ .Title }}</h2>
-        <time>{{ .Date.Format "January 02, 2006" }}</time>
+        {{ partial "titlesection.html" . }}
       </header>
       {{ .Content }}
     </div>

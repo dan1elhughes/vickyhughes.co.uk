@@ -2,7 +2,9 @@
 
 {{ define "main" }}
 <article class="porfolio mid-width">
-  <h2>{{ .Title }}</h2>
+  <header>
+    {{ partial "titlesection.html" . }}
+  </header>
   <div>{{ .Content }}</div>
 </article>
 {{ end }}

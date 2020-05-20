@@ -158,6 +158,8 @@ ul.grid h3 {
 
 article h2 {
   margin-bottom: 0;
+article {
+  padding: 2rem;
 }
 
 article img {
@@ -172,7 +174,21 @@ article > div {
   padding: 2em 0;
 }
 article header {
-  margin-top: 2rem;
+  margin: 2rem 0;
+}
+article .titlesection {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+article .titlesection a {
+  color: grey;
+  border-bottom: none;
+  padding: 0.5em;
+}
+article .titlesection h2 {
+  margin-top: 0;
+  padding: 0;
 }
 article a {
   border-bottom: 2px solid var(--theme);
@@ -189,14 +205,18 @@ article .split-container {
   display: block;
 }
 
-@media only screen and (min-width: 720px) {
+@media only screen and (min-width: 1080px) {
   article .split-container {
     display: flex;
   }
-
+  article.portfolio img {
+    width: 50vw;
+    max-width: unset;
+  }
+}
+@media only screen and (min-width: 1366px) {
   article.portfolio img {
     width: 66vw;
-    max-width: unset;
   }
 }
 
