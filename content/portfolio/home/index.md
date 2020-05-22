@@ -3,7 +3,6 @@ title: "Home"
 date: 2020-03-27
 image: IMG_1394.jpg
 tags:
-  - Personal work
 images:
   - IMG_1394.jpg
 ---
