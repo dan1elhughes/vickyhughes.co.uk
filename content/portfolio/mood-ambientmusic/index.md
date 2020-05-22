@@ -1,11 +1,10 @@
 ---
 title: "The Therapuetic Power of Ambient Music"
 date: 2020-03-09
-image: IMG_1176.jpg
+image: ambient-insitu.png
 tags:
-  - Editorial
 images:
-  - ambient-insitu.png
+  - ambient-insitu.png  
   - IMG_1176.jpg
 ---
 

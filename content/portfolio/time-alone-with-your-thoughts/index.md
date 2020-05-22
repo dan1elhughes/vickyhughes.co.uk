@@ -3,7 +3,6 @@ title: "Spend some time alone with your thoughts"
 date: 2020-04-01
 image: IMG_1403.jpg
 tags:
-  - Personal work
 images:
   - IMG_1403.jpg
 ---

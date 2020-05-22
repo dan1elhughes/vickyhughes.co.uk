@@ -3,7 +3,6 @@ title: "The self-improved isolator"
 date: 2020-03-09
 image: insitu.png
 tags:
-  - Editorial
 images:
   - insitu.png
   - IMG_1190.jpg
