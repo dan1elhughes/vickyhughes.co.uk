@@ -21,7 +21,7 @@ I went with an idea of a small figure desperately struggling to keep all the met
 ### Second version
 ![Becoming the perfect human](image29.jpg)
 
-I dabbled with putting the figure on a precarious stepladder, to make them feel really out of control. But then I decided to integrate the figure to the panel, to drive home the point about the character monitoring themselves. The client preferred this approach, so we ended up with...
+I dabbled with putting the figure on a precarious stepladder, to make them feel really out of control. But then I decided to integrate the figure with the panel, to drive home the point about the character monitoring themselves. The client preferred this approach, so we ended up with...
 
 ### Final illustration
 ![Becoming the perfect human](insitu.png)
