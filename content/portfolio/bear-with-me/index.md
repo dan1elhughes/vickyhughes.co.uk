@@ -1,5 +1,5 @@
 ---
-title: "Fun with faces challenge"
+title: "Bear With Me"
 date: 2020-04-01
 image: IMG_1250.jpg
 tags:
@@ -12,4 +12,4 @@ images:
   - IMG_1240.jpg
 ---
 
-An illustrated children's book, for [Fonetti](https://www.fonetti.com/); an interactive app to help kids learn to read.
+An illustrated children's book, for [Fonetti](https://www.fonetti.com/); an app to help kids learn to read.
