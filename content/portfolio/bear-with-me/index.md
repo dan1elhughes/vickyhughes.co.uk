@@ -12,4 +12,4 @@ images:
   - IMG_1240.jpg
 ---
 
-An illustrated children's book, for [Fonetti](https://www.fonetti.com/); an app to help kids learn to read.
+An illustrated children's book for [Fonetti](https://www.fonetti.com/); an app to help kids learn to read.
