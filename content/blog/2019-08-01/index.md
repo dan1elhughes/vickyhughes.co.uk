@@ -1,5 +1,5 @@
 ---
-title: "August 2019"
+title: "August 2019: an update"
 date: 2019-09-01T09:45:00Z
 draft: false
 image: 8CCD5A9B-CA91-4C7D-B44D-0E65CD55E7DE.jpeg
