@@ -21,4 +21,4 @@ She looked a bit too much like a downhill cyclist, here's the final gal all stra
 
 ![RISO cyclist version 5](IMG_1696.jpg)
 
-I just wish I looked this cool on my bike. My Halfords road bike was excellent value but absolutely no hipster points.
+I just wish I looked this cool on my bike. My Halfords hybrid bike was excellent value but absolutely no hipster points.
