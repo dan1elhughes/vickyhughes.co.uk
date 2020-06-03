@@ -1,5 +1,5 @@
 ---
-title: "Interview with Katrien"
+title: "Freelance illustrator: an interview with me"
 date: 2020-05-01T00:00:00Z
 draft: false
 image: IMG_1186.jpg

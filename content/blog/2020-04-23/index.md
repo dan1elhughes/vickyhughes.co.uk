@@ -1,5 +1,5 @@
 ---
-title: "Becoming the perfect human"
+title: "Becoming the perfect human: illustration process"
 date: 2020-04-23T00:00:00Z
 draft: false
 image: image42.jpg
