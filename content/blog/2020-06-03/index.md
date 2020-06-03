@@ -11,7 +11,7 @@ I've been admiring the work of [Nat Andrewson](https://natalie-andrewson.com/fil
 
 Then took a character from one of my previous pieces and experimented with adding the brushes and colours from the pack:
 
-![Travel illustration](IMG_1501.jpg)
+![Travel illustration](IMG_1501.JPG)
 ![RISO cyclist version 1](IMG_1690.jpg)
 ![RISO cyclist version 2](IMG_1691.jpg)
 ![RISO cyclist version 3](IMG_1692.jpg)
@@ -21,4 +21,4 @@ She looked a bit too much like a downhill cyclist, here's the final gal all stra
 
 ![RISO cyclist version 5](IMG_1696.jpg)
 
-I just wish I looked this call on my bike. My Halfords road bike was excellent value but absolutely no hipster points.
+I just wish I looked this cool on my bike. My Halfords road bike was excellent value but absolutely no hipster points.
