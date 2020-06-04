@@ -37,10 +37,10 @@ Oops I kinda answered this already. I start a project by researching the brief o
 
 As for when it’s finished - I get pretty bored of working on the same project/piece quite quickly, so I reckon sometimes I probably finish earlier than I should… But it’s finished when I can close it, leave it, reopen it the next day and still like it. 
 
-If you’re working on a project and are falling behind, would you ask for an extension to refine your illustration or submit an OK piece of work on time?
+### If you’re working on a project and are falling behind, would you ask for an extension to refine your illustration or submit an OK piece of work on time?
 I’d probably send the best version I could before the deadline, explain my circumstances, offer them the option of using this version or waiting slightly longer for a new one. I’m pretty obsessed with planning, and Todoist, and I try really hard not to fall behind. But if there’s a good reason, that’s what I’d do, I think.
 
-What type of design work do you enjoy the most: print or digital? Why?
+### What type of design work do you enjoy the most: print or digital? Why?
 Digital. I just like to tweak and move stuff around. Although I said I’m obsessed with planning - I don’t really like planning layouts and composition. I just like planning tasks. Once I’ve done a few thumbnails I’ll start working larger so it suits me better to be able to move the sketch around. And I am quite impatient so I like not having to mix paint - I used to work in watercolour quite a bit. I would like to learn more printing processes, like screen printing or Riso. I was planning to do so this April but obviously we can’t leave the house at the moment, so.
 
 ### How do you prepare your work for production?
