@@ -12,6 +12,9 @@ I love drawing fun and playful characters, and I'm interested in escapism, the m
 
 If you'd like to work together, please [get in touch](mailto:vicky.hughes@hotmail.com)!
 
+
+
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
