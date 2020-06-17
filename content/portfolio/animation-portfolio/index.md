@@ -6,6 +6,7 @@ tags:
 images:
   - IMG_2119.gif
   - IMG_2120.gif
+  - IMG_1970.gif
   - IMG_2121.gif
   - IMG_0817.gif
   - IMG_0803.gif
