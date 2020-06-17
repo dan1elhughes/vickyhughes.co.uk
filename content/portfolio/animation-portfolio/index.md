@@ -1,12 +1,12 @@
 ---
 title: "Animation portfolio"
 date: 2020-06-17
-image: IMG_2117.GIF
+image: IMG_2119.gif
 tags:
 images:
-  - IMG_2117.GIF
-  - IMG_2116.gif
-  - IMG_2115.gif
+  - IMG_2119.gif
+  - IMG_2120.gif
+  - IMG_2121.gif
   - IMG_0817.gif
   - IMG_0803.gif
   - gb-launch-insta-linkedin.gif
