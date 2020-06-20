@@ -1,7 +1,7 @@
 ---
 title: "Cyclist"
 date: 2020-05-14
-image: IMG_1696.jpg
+image: IMG_1696.featured.jpg
 tags:
 images:
   - IMG_1696.jpg

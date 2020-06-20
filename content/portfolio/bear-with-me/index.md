@@ -1,7 +1,7 @@
 ---
 title: "Bear With Me"
 date: 2020-04-01
-image: IMG_1250.jpg
+image: IMG_1250.featured.jpg
 tags:
 images:
   - IMG_1250.jpg

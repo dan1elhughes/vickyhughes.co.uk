@@ -1,7 +1,7 @@
 ---
 title: "The self-improved isolator"
 date: 2020-03-09
-image: insitu.png
+image: insitu.featured.png
 tags:
 images:
   - insitu.png

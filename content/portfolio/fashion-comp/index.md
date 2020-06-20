@@ -1,7 +1,7 @@
 ---
 title: "Fashionistas"
 date: 2020-04-22
-image: IMG_1717.jpg
+image: IMG_1717.featured.jpg
 tags:
 images:
   - IMG_1717.jpg
