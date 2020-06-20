@@ -5,6 +5,7 @@ image: home-safari-ants-900.gif
 tags:
 images:
   - home-safari-ants-900.gif
+  - home-safari-pigeon-900.gif
   - home-safari-fly-900.gif
 ---
 
