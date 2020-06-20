@@ -1,6 +1,6 @@
 ---
 title: "Home safari"
-date: 2020-06-22
+date: 2020-06-20
 image: home-safari-ants-900.gif
 tags:
 images:
