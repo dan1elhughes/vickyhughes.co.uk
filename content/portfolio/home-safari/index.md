@@ -1,11 +1,11 @@
 ---
 title: "Home safari"
 date: 2020-06-22
-image: home-safari-ants.gif
+image: home-safari-ants-900.gif
 tags:
 images:
-  - home-safari-ants.gif
-  - home-safari-fly.gif
+  - home-safari-ants-900.gif
+  - home-safari-fly-900.gif
 ---
 
 Who says you need to travel halfway around the planet to see a bit of wildlife?
