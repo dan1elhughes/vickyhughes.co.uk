@@ -8,4 +8,4 @@ images:
   - cyclist_process.jpg
 ---
 
-I took this character from a [previous piece](https://vickyhughes.co.uk/portfolio/travel/) and jazzed her up a bit with a RISO effect.
+Her bike is much cooler than mine.
