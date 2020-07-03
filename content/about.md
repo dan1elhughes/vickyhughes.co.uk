@@ -4,7 +4,7 @@ type: "about"
 ---
 
 
-I'm a freelance illustrator, with a Graduate Diploma in Illustration from Camberwell College of Arts.
+I'm a freelance illustrator based in London, with a Graduate Diploma in Illustration from Camberwell College of Arts.
 
 I used to have a very sensible job as a data scientist; first in the Civil Service, specifically in education and justice, and more recently in a tech startup. I must be one of the only freelance creatives who actually enjoys doing their accounts...
 
@@ -14,10 +14,13 @@ If you'd like to work together, please [get in touch](mailto:vicky.hughes@hotmai
 
 
 ## Selected clients
-- [Geckoboard - branding](https://www.geckoboard.com/)
+- [Geckoboard - web branding](https://www.geckoboard.com/)
 - [Mood magazine - editorial](https://www.itsmoodmag.com/power/becoming-perfect-self-optimise)
 - [Cylchgrawn Cara - editorial](https://vickyhughes.co.uk/portfolio/online-dating/)
 - [Fonetti - children's publishing](https://vickyhughes.co.uk/portfolio/bear-with-me/)
+
+## Selected features
+- [Beach London](http://www.beachlondon.co.uk/five-day-no-54-vicky-hughes/)
 
 
 
