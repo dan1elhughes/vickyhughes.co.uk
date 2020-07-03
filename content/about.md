@@ -8,7 +8,7 @@ I'm a freelance illustrator based in London, with a Graduate Diploma in Illustra
 
 I used to have a very sensible job as a data scientist; first in the Civil Service, specifically in education and justice, and more recently in a tech startup. I must be one of the only freelance creatives who actually enjoys doing their accounts...
 
-I love drawing fun and playful characters, and I'm interested in tech, food, children's editorial and the mind. I've illustrated for tech startups, childrens' books and online magazines. At the moment I'm particularly interested in editorial work.
+I love drawing fun and playful characters, and I'm interested in tech, food, childhood/education and the mind. I've illustrated for tech startups, childrens' books and online magazines. At the moment I'm particularly interested in editorial work.
 
 If you'd like to work together, please [get in touch](mailto:vicky.hughes@hotmail.com)!
 
