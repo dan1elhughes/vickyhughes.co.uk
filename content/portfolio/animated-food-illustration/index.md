@@ -8,5 +8,5 @@ images:
   - wonky-sushi.gif
 ---
 
-A few illustrations of some cooking videos by [Plate Talks](https://www.platetalks.co.uk/), in collaboration with [Still Here Still Life](https://www.instagram.com/stillherestilllife/).
+A few animated illustrations of some cooking videos by [Plate Talks](https://www.platetalks.co.uk/), in collaboration with [Still Here Still Life](https://www.instagram.com/stillherestilllife/).
 
