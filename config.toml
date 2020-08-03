@@ -1,7 +1,7 @@
 baseURL = "https://vickyhughes.co.uk"
 languageCode = "en-gb"
 title = "Vicky Hughes"
-copyright = "© 2019 Vicky Hughes."
+copyright = "© 2019–2020 Vicky Hughes."
 assetdir = "."
 pluralizelisttitles = false
 sectionPagesMenu = "main"
@@ -50,6 +50,11 @@ weight = 3
 identifier = "contact"
 url = "/contact/"
 weight = 4
+
+[[params.nav]]
+identifier = "shop"
+url = "https://www.etsy.com/uk/shop/VictoriaIllustration"
+weight = 5
 
 # Enable inline HTML in Markdown files (Hugo >0.64)
 [markup.goldmark.renderer]
