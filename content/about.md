@@ -1,8 +1,7 @@
 ---
-title: " "
+title: "About"
 type: "about"
 ---
-
 
 I'm a freelance illustrator based in London, with a Graduate Diploma in Illustration from Camberwell College of Arts.
 
@@ -12,17 +11,16 @@ I love drawing fun and playful characters, and I'm interested in tech, food, chi
 
 If you'd like to work together, please [get in touch](mailto:vicky.hughes@hotmail.com)!
 
-
 ## Selected clients
+
 - [Geckoboard - web branding](https://www.geckoboard.com/)
 - [Mood magazine - editorial](https://www.itsmoodmag.com/power/becoming-perfect-self-optimise)
 - [Cylchgrawn Cara - editorial](https://vickyhughes.co.uk/portfolio/online-dating/)
 - [Fonetti - children's publishing](https://vickyhughes.co.uk/portfolio/bear-with-me/)
 
 ## Selected features
+
 - [Beach London](http://www.beachlondon.co.uk/five-day-no-54-vicky-hughes/)
-
-
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
