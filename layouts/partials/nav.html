@@ -2,9 +2,11 @@
 	<div>
 		<a href="/portfolio"><img src="/img/name.png" alt="Vicky Hughes"/></a>
 	</div>
+	{{ if not .Params.hidenav }}
 	<div class="pages">
 		{{ range $.Site.Params.nav }}
 			<a href="{{ .url }}">{{ .identifier }}</a>
 		{{ end }}
 	</div>
+	{{ end }}
 </nav>

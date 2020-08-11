@@ -1,6 +1,7 @@
 ---
 title: "Links"
 type: "links"
+hidenav: true
 ---
 
 - [Website](https://vickyhughes.co.uk)
