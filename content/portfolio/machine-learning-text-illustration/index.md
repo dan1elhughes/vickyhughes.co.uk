@@ -1,6 +1,6 @@
 ---
 title: "Teaching machines to summarise text"
-date: 2020-17-08
+date: 2020-08-17
 image: machine-reading-text-illustration-900.jpg
 tags:
 images:
