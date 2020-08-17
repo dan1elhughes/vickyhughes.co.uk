@@ -1,6 +1,6 @@
 ---
 title: "Wild west"
-date: 2020-07-01
+date: 2020-04-15
 image: wild-west-featured.jpg
 tags:
 images:
