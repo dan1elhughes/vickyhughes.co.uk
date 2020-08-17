@@ -7,4 +7,4 @@ images:
   - machine-reading-text-illustration.JPG
 ---
 
-An editorial concept about teaching computers to understand - and summarise - text.
+An editorial concept illustration about teaching computers to understand - and summarise - complex documents and policies.
