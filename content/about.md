@@ -15,7 +15,7 @@ If you'd like to work together, please [get in touch](mailto:vicky.hughes@hotmai
 
 - [Geckoboard - web branding](https://www.geckoboard.com/)
 - [Mood magazine - editorial](https://www.itsmoodmag.com/power/becoming-perfect-self-optimise)
-- [Cylchgrawn Cara - editorial](https://vickyhughes.co.uk/portfolio/online-dating/)
+- Cylchgrawn Cara - editorial
 - [Fonetti - children's publishing](https://vickyhughes.co.uk/portfolio/bear-with-me/)
 
 ## Selected features
