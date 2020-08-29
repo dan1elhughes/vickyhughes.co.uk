@@ -3,13 +3,15 @@ title: "About"
 type: "about"
 ---
 
-I'm a freelance illustrator based in London, with a Graduate Diploma in Illustration from Camberwell College of Arts.
+Hello! I’m a freelance illustrator with a love for telling stories, especially through editorial, branding, and attention grabbing GIFs and social media graphics.
 
-I used to have a very sensible job as a data scientist; first in the Civil Service, specifically in education and justice, and more recently in a tech startup. I must be one of the only freelance creatives who actually enjoys doing their accounts...
+I like to make things playful through endearing, big headed characters that make people smile or get them interested in a topic. I tend to use line work, a warm, reduced colour palette and some printmaking inspired textures, with pencil shading to add a bit of depth.
 
-I love drawing fun and playful characters, and I'm interested in tech, food, childhood/education and the mind. I've illustrated for tech startups, childrens' books and online magazines. At the moment I'm particularly interested in editorial work.
+My favourite things to draw are playful people and their everyday lives, especially to do with work, food, animals, self-care and hobbies.
 
-If you'd like to work together, please [get in touch](mailto:vicky.hughes@hotmail.com)!
+I’ve also got a background in maths, statistics and data science, and get a potentially odd satisfaction from digging into that old career knowledge and working with topics like tech, startups, data, scientific studies, finance, or business.
+
+I’m currently available for work, please feel free to drop me an email: [vicky.hughes@hotmail.com](mailto:vicky.hughes@hotmail.com)!
 
 ## Selected clients
 
