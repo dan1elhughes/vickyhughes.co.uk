@@ -1,6 +1,6 @@
 ---
 title: "Back to work GIF"
-date: 2020-08-26
+date: 2020-07-26
 image: back-to-work.gif
 tags:
 images:
