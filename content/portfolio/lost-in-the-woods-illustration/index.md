@@ -1,6 +1,6 @@
 ---
 title: "Lost in the woods"
-date: 2020-05-29
+date: 2020-06-20
 image: lost-in-the-woods-preview.jpg
 tags:
 images:
