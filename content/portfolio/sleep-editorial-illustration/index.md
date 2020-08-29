@@ -1,0 +1,10 @@
+---
+title: "Sleep"
+date: 2020-08-29
+image: sleep-illustration-preview.jpg
+tags:
+images:
+  - sleep-illustration.jpg
+---
+
+An editorial/conceptual (uncommissioned) illustration about sleep, and the danger of not getting enough of it.
