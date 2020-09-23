@@ -1,10 +1,10 @@
 ---
-title: "Back to work GIF"
-date: 2020-07-26
-image: back-to-work.gif
+title: "Horoscope"
+date: 2020-07-25
+image: horoscope.jpg
 tags:
 images:
-  - back-to-work.gif
+  - horoscope.jpg
 ---
 
-Summer holidays are over, it's time!
+A personal illustration inspired by Shake Bristol's Shaketember prompts - this one was "horoscope". I avoided the typical astrology imagery and focused on a character's experience. Was her horoscope good news or not... who knows!
