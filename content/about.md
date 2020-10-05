@@ -3,7 +3,7 @@ title: "About"
 type: "about"
 ---
 
-Hello! I’m a freelance illustrator with a love for telling stories, especially through editorial, branding, and attention grabbing GIFs and social media graphics. I'm based in the UK, and live full time on the road with my fiancé in our converted van. 
+Hello! I’m a freelance illustrator based in the UK, with a love for telling stories, especially through editorial, branding, and attention grabbing GIFs and social media graphics.
 
 I like to make things playful through endearing, big headed characters that make people smile or get them interested in a topic. I tend to use line work, a warm, reduced colour palette and some printmaking inspired textures, with pencil shading to add a bit of depth.
 
