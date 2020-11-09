@@ -5,6 +5,7 @@ image: shoppers-illustration-preview.jpg
 tags:
 images:
   - shoppers-illustration.jpg
+  - shoppers-xmas-market.png
 ---
 
-Get in loser, we're going shopping!
+A personal favourite illustration of mine. A Christmas remixed version was used for the UAL post-grad holiday market... marketing in 2020.

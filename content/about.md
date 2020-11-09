@@ -3,13 +3,11 @@ title: "About"
 type: "about"
 ---
 
-Hello! I’m a freelance illustrator based in the UK, with a love for telling stories, especially through editorial, branding, and attention grabbing GIFs and social media graphics.
+Hello! I’m a freelance illustrator travelling the UK with my fiancé in our converted van. I love telling stories, especially through editorial, branding, and attention grabbing GIFs and social media graphics.
 
 I like to make things playful through endearing, big headed characters that make people smile or get them interested in a topic. I tend to use line work, a warm, reduced colour palette and some printmaking inspired textures, with pencil shading to add a bit of depth.
 
-My favourite things to draw are playful people and their everyday lives, especially to do with work, food, animals, self-care and hobbies.
-
-I’ve also got a background in maths, statistics and data science, and get a potentially odd satisfaction from digging into that old career knowledge and working with topics like tech, startups, data, scientific studies, finance, or business.
+My favourite things to draw are playful people and their everyday lives, especially to do with the outdoors, food, animals, self-care, work and hobbies.
 
 I’m currently available for work, please feel free to drop me an email: [vicky.hughes@hotmail.com](mailto:vicky.hughes@hotmail.com)!
 

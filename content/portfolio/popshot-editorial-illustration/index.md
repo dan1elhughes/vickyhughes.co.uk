@@ -4,6 +4,7 @@ date: 2020-04-28
 image: popshot-preview.jpg
 tags:
 images:
+  - popshot-magazine.jpeg
   - popshot-main.jpg
   - popshot-spot.jpg
 ---
