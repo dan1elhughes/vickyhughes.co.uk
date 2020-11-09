@@ -1,7 +1,7 @@
 ---
 title: "Mushrooms"
 date: 2020-11-09
-image: mushrooms-framed.png
+image: mushrooms-framed-preview.png
 tags:
 images:
   - mushrooms-framed.png
