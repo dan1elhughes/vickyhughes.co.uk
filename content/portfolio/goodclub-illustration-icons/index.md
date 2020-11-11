@@ -11,4 +11,4 @@ images:
 
 ---
 
-A set of icons commissioned by Good Club - an online sustainable grocery store - as part of their rebrand.
+A set of icons commissioned by [Good Club](https://www.goodclub.co.uk/) - an online sustainable grocery store - as part of their rebrand.
