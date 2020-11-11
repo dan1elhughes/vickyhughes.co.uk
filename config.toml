@@ -37,24 +37,19 @@ url = "/portfolio/"
 weight = 1
 
 [[params.nav]]
-identifier = "blog"
-url = "/blog/"
-weight = 2
-
-[[params.nav]]
 identifier = "about"
 url = "/about/"
-weight = 3
+weight = 2
 
 [[params.nav]]
 identifier = "contact"
 url = "/contact/"
-weight = 4
+weight = 3
 
 [[params.nav]]
 identifier = "shop"
 url = "https://www.etsy.com/uk/shop/VictoriaIllustration"
-weight = 5
+weight = 4
 
 # Enable inline HTML in Markdown files (Hugo >0.64)
 [markup.goldmark.renderer]
