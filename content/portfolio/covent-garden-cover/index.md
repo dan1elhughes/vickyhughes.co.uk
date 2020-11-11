@@ -1,6 +1,6 @@
 ---
-title: "Cyclist"
-date: 2020-04-08
+title: "Covent Gardener cover"
+date: 2020-05-29
 image: covent-garden-cover-illustration-preview.png
 tags:
 images:
