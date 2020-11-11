@@ -8,4 +8,4 @@ images:
   - shoppers-xmas-market.png
 ---
 
-A personal favourite illustration of mine. A Christmas remixed version was used for the UAL post-grad holiday market... marketing in 2020.
+A personal favourite illustration of mine. A Christmas remixed version was licensed for promoting the UAL post-grad holiday market in 2020.
