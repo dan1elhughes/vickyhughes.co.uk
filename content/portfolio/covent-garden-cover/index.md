@@ -8,4 +8,4 @@ images:
   - covent-garden-cover-illustration-mockup.png
 ---
 
-My entry for the Covent Gardener Winter 20/21 cover competition.
+My entry for the Covent Gardener Winter 20-21 cover competition.
