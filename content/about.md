@@ -20,6 +20,7 @@ I’m currently available for work, please feel free to drop me an email: [vicky
 
 ## Selected features
 
+- [Lecture in Progress Directory](https://lectureinprogress.com/journal/100-student-graduate-and-emerging-makers)
 - [Beach London](http://www.beachlondon.co.uk/five-day-no-54-vicky-hughes/)
 
 <!-- Begin Mailchimp Signup Form -->
