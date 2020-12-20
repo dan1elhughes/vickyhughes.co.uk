@@ -13,13 +13,16 @@ I’m currently available for work, please feel free to drop me an email: [vicky
 
 ## Selected clients
 
-- [Geckoboard - web branding](https://www.geckoboard.com/)
+- [Good Club - website branding/icons](https://www.goodclub.co.uk/)
+- [Geckoboard - website branding, editorial](https://www.geckoboard.com/)
 - [Mood magazine - editorial](https://www.itsmoodmag.com/power/becoming-perfect-self-optimise)
 - Cylchgrawn Cara - editorial
 - [Fonetti - children's publishing](https://vickyhughes.co.uk/portfolio/bear-with-me/)
 
 ## Selected features
 
+- [UAL alumni interview](https://www.arts.ac.uk/study-at-ual/postgraduate-study/postgraduate-community/stories/spotlight-on-illustrator,-vicky-hughes)
+- [Lecture in Progress Directory](https://lectureinprogress.com/journal/100-student-graduate-and-emerging-makers)
 - [Beach London](http://www.beachlondon.co.uk/five-day-no-54-vicky-hughes/)
 
 <!-- Begin Mailchimp Signup Form -->
