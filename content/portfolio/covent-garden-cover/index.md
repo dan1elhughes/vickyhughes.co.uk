@@ -1,6 +1,6 @@
 ---
 title: "Covent Gardener cover"
-date: 2020-08-25
+date: 2020-07-26
 image: covent-garden-cover-illustration-preview.png
 tags:
 images:
