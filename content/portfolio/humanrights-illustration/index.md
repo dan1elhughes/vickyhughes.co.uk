@@ -1,6 +1,6 @@
 ---
 title: "We are them, they are us"
-date: 2020-08-25
+date: 2021-03-18
 image: humanrights.JPG
 tags:
 images:
