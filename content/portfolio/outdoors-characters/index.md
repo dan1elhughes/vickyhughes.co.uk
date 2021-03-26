@@ -5,8 +5,8 @@ image: jay-illustration.jpg
 tags:
 images:
   - jay-illustration.jpg
-  - hiking-tea-illustration.jpg
   - puddle-splash-illustration.jpg
+  - hiking-tea-illustration.jpg
 ---
 
 A small set of illustrated character postcards.
