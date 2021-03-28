@@ -1,6 +1,6 @@
 ---
 title: "Winter hikes"
-date: 2021-03-17
+date: 2020-05-29
 image: hiking-snacks.jpg
 tags:
 images:
