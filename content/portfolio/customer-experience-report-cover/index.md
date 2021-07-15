@@ -8,5 +8,5 @@ images:
   - customer-experience-report-2021-book-cover.png
 ---
 
-An ebook cover for Geckoboard's [https://www.geckoboard.com/best-practice/customer-support-experience-report-2021/](customer support experience report).
+An ebook cover for Geckoboard's [customer support experience report](https://www.geckoboard.com/best-practice/customer-support-experience-report-2021/).
 
