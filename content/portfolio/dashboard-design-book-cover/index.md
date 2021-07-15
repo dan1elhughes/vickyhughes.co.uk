@@ -7,4 +7,4 @@ images:
   - dashboard-design-book-cover.png
 ---
 
-A cover for Geckoboard's (dashboard design ebook)[https://www.geckoboard.com/best-practice/dashboard-design/].
+A cover for Geckoboard's [dashboard design ebook](https://www.geckoboard.com/best-practice/dashboard-design/).
