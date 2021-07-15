@@ -1,6 +1,6 @@
 ---
 title: "Good Club rebrand"
-date: 2021-03-21
+date: 2021-03-18
 image: icons-reel.gif
 tags:
 images:
