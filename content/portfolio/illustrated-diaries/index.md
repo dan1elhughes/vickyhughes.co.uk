@@ -7,4 +7,4 @@ images:
   - illustrated-diaries.png
 ---
 
-For (illustrated diaries)[https://www.illustrateddiaries.com/blog/dont-mind-me-its-just-a-phase].
+For [illustrated diaries](https://www.illustrateddiaries.com/blog/dont-mind-me-its-just-a-phase).
