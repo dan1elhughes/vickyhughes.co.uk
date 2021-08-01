@@ -8,4 +8,4 @@ images:
   - unstuck-screenshot.png
 ---
 
-For Geckoboard's inspiration (playbook)[https://www.geckoboard.com/best-practice/unstuck-customer-service-playbook/] for customer service teams.
+For Geckoboard's inspiration [playbook](https://www.geckoboard.com/best-practice/unstuck-customer-service-playbook/) for customer service teams.
