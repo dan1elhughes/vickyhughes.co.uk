@@ -51,6 +51,11 @@ identifier = "shop"
 url = "https://www.etsy.com/uk/shop/VictoriaIllustration"
 weight = 4
 
+[[params.nav]]
+identifier = "store"
+url = "/store/"
+weight = 5
+
 # Enable inline HTML in Markdown files (Hugo >0.64)
 [markup.goldmark.renderer]
 unsafe = true
