@@ -47,8 +47,8 @@ url = "/contact/"
 weight = 3
 
 [[params.nav]]
-identifier = "shop"
-url = "https://www.etsy.com/uk/shop/VictoriaIllustration"
+identifier = "store"
+url = "/store/"
 weight = 4
 
 # Enable inline HTML in Markdown files (Hugo >0.64)
