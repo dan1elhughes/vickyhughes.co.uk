@@ -1,7 +1,6 @@
 baseURL = "https://vickyhughes.co.uk"
 languageCode = "en-gb"
 title = "Vicky Hughes"
-copyright = "© 2019–2020 Vicky Hughes."
 assetdir = "."
 pluralizelisttitles = false
 sectionPagesMenu = "main"
