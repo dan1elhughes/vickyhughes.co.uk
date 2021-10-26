@@ -46,11 +46,6 @@ identifier = "contact"
 url = "/contact/"
 weight = 3
 
-[[params.nav]]
-identifier = "store"
-url = "/store/"
-weight = 4
-
 # Enable inline HTML in Markdown files (Hugo >0.64)
 [markup.goldmark.renderer]
 unsafe = true
