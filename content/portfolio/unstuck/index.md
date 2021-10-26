@@ -9,3 +9,5 @@ images:
 ---
 
 For Geckoboard's inspiration [playbook](https://www.geckoboard.com/best-practice/unstuck-customer-service-playbook/) for customer service teams.
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

@@ -13,3 +13,5 @@ images:
 ---
 
 An illustrated children's book for [Fonetti](https://www.fonetti.com/); an app to help kids learn to read.
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

@@ -9,3 +9,5 @@ images:
 ---
 
 An illustrated pattern celebrating the beauty of the forest floor, and some cheeky mushroom characters.
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

@@ -8,3 +8,5 @@ images:
 ---
 
 Summer holidays are over, it's time!
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

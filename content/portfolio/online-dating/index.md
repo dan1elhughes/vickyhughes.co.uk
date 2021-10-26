@@ -8,3 +8,5 @@ images:
 ---
 
 Editorial illustration for an article about online dating during lockdown, for [Cara Magazine](http://cara.cymru/).
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

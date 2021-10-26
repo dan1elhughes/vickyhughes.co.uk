@@ -8,3 +8,5 @@ images:
 ---
 
 A personal illustration inspired by Shake Bristol's Shaketember prompts - this one was "horoscope". I avoided the typical astrology imagery and focused on a character's experience. Was her horoscope good news or not... who knows!
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

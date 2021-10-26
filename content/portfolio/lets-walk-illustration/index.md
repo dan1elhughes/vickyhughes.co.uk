@@ -8,3 +8,5 @@ images:
 ---
 
 A personal illustration reminding myself to get out and walk.
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

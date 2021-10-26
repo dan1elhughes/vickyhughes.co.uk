@@ -9,3 +9,5 @@ images:
 ---
 
 It's mushroom season and I wish I was a tiny little mushroom gal who didn't know it was 2020 and had only tiny mushroom problems to worry about.
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

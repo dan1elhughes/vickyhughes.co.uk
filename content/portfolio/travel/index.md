@@ -8,3 +8,5 @@ images:
 ---
 
 An experiment with characters. Concepts for travel-themed characters were crowd sourced from friends and family!
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

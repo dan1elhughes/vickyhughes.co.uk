@@ -10,3 +10,5 @@ images:
 ---
 
 A small set of illustrated character postcards.
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

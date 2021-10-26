@@ -9,3 +9,5 @@ images:
 ---
 
 My entry for the Covent Gardener Winter 20-21 cover competition.
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

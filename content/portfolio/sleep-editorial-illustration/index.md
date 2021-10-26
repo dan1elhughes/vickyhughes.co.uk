@@ -8,3 +8,5 @@ images:
 ---
 
 An editorial/conceptual (uncommissioned) illustration about sleep, and the danger of not getting enough of it.
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

@@ -10,3 +10,5 @@ images:
 ---
 
 A small series of illustrations celebrating exploring the great outdoors.
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

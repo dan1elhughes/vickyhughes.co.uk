@@ -9,3 +9,5 @@ images:
 ---
 
 Two spot illustrations for [book(ish) magazine](https://bookishmag.co.uk/).
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!

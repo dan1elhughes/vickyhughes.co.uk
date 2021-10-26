@@ -9,3 +9,5 @@ images:
 ---
 
 Her bike is much cooler than mine.
+
+I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!
