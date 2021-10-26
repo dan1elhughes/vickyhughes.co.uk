@@ -12,4 +12,4 @@ images:
 
 Two ebook covers for Geckoboard: the [Customer Support KPI Guide](https://www.geckoboard.com/best-practice/cs-kpi-guide/) and the [Customer Support Experience Report](https://www.geckoboard.com/best-practice/customer-support-experience-report-2021/).
 
-I'm currently available for freelance illustration work - [email me](mailto::vicky.hughes@hotmail.com) to get in touch!
+I'm currently available for freelance illustration work - [email me](mailto:vicky.hughes@hotmail.com) to get in touch! Or, if you'd like to buy illustrated products, [click here to sign up to my newsletter](https://mailchi.mp/8dcebb7ee0b4/shop-updates-signup-form) and be the first to get shop updates.
