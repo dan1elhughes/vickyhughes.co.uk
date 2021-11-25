@@ -1,7 +1,7 @@
 ---
 title: "Popshot editorial illustration"
-date: 2021-01-24
-image: popshot-preview.jpg
+date: 2021-01-23
+image: popshot-magazine.jpg
 tags:
 images:
   - popshot-magazine.jpeg
