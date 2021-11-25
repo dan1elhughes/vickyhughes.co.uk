@@ -1,7 +1,7 @@
 ---
 title: "Vault Hubweek t-shirts"
 date: 2021-02-01
-image: front-design-rgb.png
+image: back-design-rgb.png
 tags:
 images:
   - teambuilding-tshirt-design.png
