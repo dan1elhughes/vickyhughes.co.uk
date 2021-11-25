@@ -1,6 +1,6 @@
 ---
 title: "Popshot editorial illustration"
-date: 2020-04-28
+date: 2021-01-24
 image: popshot-preview.jpg
 tags:
 images:
