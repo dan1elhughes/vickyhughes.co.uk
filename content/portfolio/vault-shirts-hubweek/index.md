@@ -6,7 +6,6 @@ tags:
 images:
   - teambuilding-tshirt-design.png
   - back-design-rgb.png
-  - front-design-rgb.png
 ---
 
 A treehouse themed teambuilding week t-shirt design for Vault.
