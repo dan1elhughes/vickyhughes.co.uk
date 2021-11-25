@@ -14,6 +14,10 @@ h3 {
   font-family: var(--font-heading);
 }
 
+.small {
+  font-size: xx-small;
+}
+
 p {
   font-size: 16px;
   line-height: 2;
