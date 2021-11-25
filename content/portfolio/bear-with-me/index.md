@@ -1,6 +1,6 @@
 ---
 title: "Bear With Me"
-date: 2021-01-25
+date: 2021-01-22
 image: IMG_1250.featured.jpg
 tags:
 images:

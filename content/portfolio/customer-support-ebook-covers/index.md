@@ -1,6 +1,6 @@
 ---
 title: "Customer support experience report cover"
-date: 2021-01-26
+date: 2021-01-25
 image: customer-experience-report-2021-book-cover-illustration.png
 tags:
 images:
