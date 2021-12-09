@@ -2,7 +2,7 @@
 title: "Bear With Me"
 date: 2021-01-24
 image: IMG_1250.featured.jpg
-tags:
+tags: publishing, client work, animals
 images:
   - IMG_1250.jpg
   - IMG_1254.jpg

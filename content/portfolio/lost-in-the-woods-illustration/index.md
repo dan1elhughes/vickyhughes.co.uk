@@ -2,7 +2,7 @@
 title: "Lost in the woods"
 date: 2021-01-17
 image: lost-in-the-woods-preview.jpg
-tags:
+tags: personal work, people, nature
 images:
   - lost-in-the-woods-preview.jpg
 ---

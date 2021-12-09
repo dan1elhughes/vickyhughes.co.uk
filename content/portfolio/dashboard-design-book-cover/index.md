@@ -2,7 +2,7 @@
 title: "Dashboard design ebook cover"
 date: 2021-01-29
 image: dashboard-design-book-cover.png
-tags:
+tags: startups, tech, client work, people
 images:
   - dashboard-design-book-cover.png
 ---

@@ -2,7 +2,7 @@
 title: "Popshot editorial illustration"
 date: 2021-01-23
 image: popshot-magazine.jpeg
-tags:
+tags: client work, publishing, food
 images:
   - popshot-magazine.jpeg
   - popshot-preview.jpg

@@ -2,7 +2,7 @@
 title: "Customer support experience report cover"
 date: 2021-01-22
 image: customer-experience-report-2021-book-cover.png
-tags:
+tags: startups, tech, client work, people
 images:
   - customer-experience-report-2021-book-cover-illustration.png
   - customer-experience-report-2021-book-cover.png
