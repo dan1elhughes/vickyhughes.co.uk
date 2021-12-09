@@ -3,9 +3,9 @@ title: "Vault Hubweek t-shirts"
 date: 2021-01-30
 image: back-design-rgb.png
 tags: 
-  - client work
-  - tech
-  - nature
+  - Client work
+  - Tech
+  - Nature
 images:
   - hubweek-people.jpg
   - teambuilding-tshirt-design.png

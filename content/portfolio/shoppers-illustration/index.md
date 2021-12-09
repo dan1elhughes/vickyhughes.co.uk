@@ -3,9 +3,9 @@ title: "Shoppers"
 date: 2021-01-27
 image: shoppers-illustration-preview.jpg
 tags:
-  - client work
-  - personal work
-  - people
+  - Client work
+  - Personal work
+  - People
 images:
   - shoppers-illustration-preview.jpg
   - shoppers-xmas-market.png

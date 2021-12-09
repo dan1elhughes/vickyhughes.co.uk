@@ -3,9 +3,9 @@ title: "Map reading"
 date: 2021-02-01
 image: mapreading-900.png
 tags:
-  - personal work
-  - people
-  - nature
+  - Personal work
+  - People
+  - Nature
 images:
   - mapreading-900.png
 ---
