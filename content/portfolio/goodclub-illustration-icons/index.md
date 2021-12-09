@@ -2,7 +2,10 @@
 title: "Good Club rebrand"
 date: 2021-01-23
 image: icons-reel.gif
-tags: startups, food, client work
+tags:
+  - startups
+  - food
+  - client work
 images:
   - goodclub-homepage-illustrations.png
   - goodclub-icons.png

@@ -2,7 +2,10 @@
 title: "Unstuck"
 date: 2021-01-28
 image: unstuck-01.png
-tags: client work, people, tech
+tags:
+  - client work
+  - people
+  - tech
 images:
   - unstuck-01.png
   - unstuck-screenshot.png

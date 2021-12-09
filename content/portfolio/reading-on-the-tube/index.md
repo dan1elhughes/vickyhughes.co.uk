@@ -2,7 +2,10 @@
 title: "Reading on the tube"
 date: 2021-01-26
 image: reading-on-the-tube.png
-tags: client work, publishing, people
+tags:
+  - client work
+  - publishing
+  - people
 images:
   - reading-on-the-tube.png
   - audiobook-podcast-1.png

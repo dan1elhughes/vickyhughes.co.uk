@@ -2,7 +2,10 @@
 title: "Covent Gardener cover"
 date: 2021-01-20
 image: covent-garden-cover-illustration-preview.png
-tags: publishing, personal work, people
+tags:
+  - publishing
+  - personal work
+  - people
 images:
   - covent-garden-cover-illustration-preview.png
   - covent-garden-cover-illustration-mockup.png

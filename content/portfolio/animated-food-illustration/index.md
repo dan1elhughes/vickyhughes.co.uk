@@ -2,7 +2,9 @@
 title: "Recipe GIFs"
 date: 2021-01-28
 image: taco-900.gif
-tags: food, personal work
+tags: 
+  - food
+  - personal work
 images:
   - taco-900.gif
   - wonky-sushi.gif

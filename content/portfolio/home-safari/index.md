@@ -2,7 +2,10 @@
 title: "Home safari"
 date: 2021-01-18
 image: home-safari-ants-900.gif
-tags: personal work, nature, people
+tags:
+  - personal work
+  - nature
+  - people
 images:
   - home-safari-fly-900.gif
   - home-safari-catbutt-900.gif
