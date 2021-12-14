@@ -1,7 +1,7 @@
 <div class="titlesection">
     <div class="next-post">
         {{ if .NextInSection }}
-        <a href="{{ .NextInSection.Permalink }}">←</a>
+        <a href="{{ .NextInSection.RelPermalink }}">←</a>
         {{ end }}
     </div>
 
@@ -11,7 +11,7 @@
 
     <div class="previous-post">
         {{ if .PrevInSection }}
-        <a href="{{ .PrevInSection.Permalink }}">→</a>
+        <a href="{{ .PrevInSection.RelPermalink }}">→</a>
         {{ end }}
     </div>
 </div>
