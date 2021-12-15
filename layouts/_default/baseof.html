@@ -7,7 +7,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <meta name="description" content="{{ .Summary }}">
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 
     <!-- https://gohugo.io/templates/internal/#open-graph -->
     {{ template "_internal/opengraph.html" . }}
