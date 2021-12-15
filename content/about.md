@@ -12,10 +12,10 @@ I'm currently available for freelance illustration work - **[email me](mailto:vi
 ## Selected clients
 
 - Good Club - website illustration and icons
-- Geckoboard - website and editorial illustration
-- Mood magazine - editorial illustration
-- Cylchgrawn Cara - editorial illustration
-- Fonetti - children's publishing illustration
+- Geckoboard - website and editorial
+- Mood magazine - editorial 
+- Cylchgrawn Cara - editorial
+- Fonetti - children's publishing 
 
 ## Selected features
 
