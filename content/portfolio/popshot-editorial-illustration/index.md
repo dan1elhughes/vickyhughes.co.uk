@@ -14,4 +14,4 @@ Editorial for a short story in Popshot magazine called 'Locked in a Box'. The st
 ### Hire me to work with your brand
 Are you looking for unique editorial illustrations? I'm currently available for freelance illustration jobs - [email me](mailto:vicky.hughes@hotmail.com) to get in touch!
 
-*"Absolutely LOVE! You've done a brilliant job with this. Great colours too 🙂 A massive thank you for your time and hard-work on this. It's been a pleasure working with you and would gladly do so again."* - Lauren Debono-Elliot, Art Editor at Popshot Magazine.
+*"Absolutely LOVE! You've done a brilliant job with this. Great colours too 🙂 A massive thank you for your time and hard-work on this. It's been a pleasure working with you and would gladly do so again."* - **Lauren Debono-Elliot, Art Editor at Popshot Magazine.**

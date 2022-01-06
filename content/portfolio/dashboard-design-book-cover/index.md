@@ -12,4 +12,4 @@ A cover for Geckoboard's [dashboard design ebook](https://www.geckoboard.com/bes
 ### Hire me to work with your brand
 Are you looking for an illustrator who understands tech startups? I'm currently available for freelance work - [email me](mailto:vicky.hughes@hotmail.com) to get in touch!
 
-*"Vicky’s a joy to work with. She listens to the brief, always comes back brimming with ideas, and delivers when she says she’s going to. And of course, her illustrations are great!"* - Tom Randle, CEO of Geckoboard.
+*"Vicky’s a joy to work with. She listens to the brief, always comes back brimming with ideas, and delivers when she says she’s going to. And of course, her illustrations are great!"* - **Tom Randle, CEO of Geckoboard.**

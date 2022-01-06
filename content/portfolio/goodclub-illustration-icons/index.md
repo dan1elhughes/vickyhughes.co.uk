@@ -17,4 +17,4 @@ A set of icons commissioned by [Good Club](https://www.goodclub.co.uk/) - an onl
 Are you looking for custom illustrations to help your branding stand out? I'm currently available for freelance work - [email me](mailto:vicky.hughes@hotmail.com) to get in touch!
 
 
-*"Thanks so much, we’re over the moon with these, they’re amazing. These are going to be so nice to work with and really give us a bit of standout. They’re all so lovely and better than I could have hoped."* - Danny Blackman, co-founder of Good Club.
+*"Thanks so much, we’re over the moon with these, they’re amazing. These are going to be so nice to work with and really give us a bit of standout. They’re all so lovely and better than I could have hoped."* - **Danny Blackman, co-founder of Good Club.**

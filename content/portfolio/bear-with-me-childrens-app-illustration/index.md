@@ -19,4 +19,4 @@ This story was about a child's imagination and was illustrated in a playful, cha
 ### Hire me to work with your brand
 Are you looking for custom, playful app graphics? I'm currently available for freelance illustration work - [email me](mailto:vicky.hughes@hotmail.com) to get in touch!
 
-*"Amazing! They've actually brightened my day, they look incredible."* - Daisy Griffiths, Content Editor at Auris Tech.
+*"Amazing! They've actually brightened my day, they look incredible."* - **Daisy Griffiths, Content Editor at Auris Tech.**
