@@ -13,7 +13,7 @@ images:
 
 A set of icons commissioned by [Good Club](https://www.goodclub.co.uk/) - an online sustainable grocery store - as part of their rebrand. The icons were used across their website and became an integral part of their brand identity. The illustrations were also used on social media and on packaging that was sent to customers.
 
-## Hire me to work with your brand
+### Hire me to work with your brand
 Are you looking for custom illustrations to help your branding stand out? I'm currently available for freelance work - [email me](mailto:vicky.hughes@hotmail.com) to get in touch!
 
 

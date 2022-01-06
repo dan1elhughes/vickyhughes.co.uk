@@ -1,5 +1,5 @@
 ---
-title: "Home safari"
+title: "Home safari animated illustrations"
 date: 2021-01-18
 image: home-safari-ants-900.gif
 tags:
@@ -10,6 +10,7 @@ images:
   - home-safari-pigeon-900.gif
 ---
 
-Who says you need to travel halfway around the planet to see a bit of wildlife? This is a series of GIFs made during lockdown, inspired by creatures I've spent too much time vacantly staring at from my window.
+Who says you need to travel halfway around the planet to see a bit of wildlife? This is a series of illustrated GIFs made during lockdown 2020, inspired by creatures that I spent a lot of time vacantly staring at from my window.
 
-I'm currently available for freelance illustration work - [email me](mailto:vicky.hughes@hotmail.com) to get in touch!
+### Hire me to work with your brand
+Are you looking for unique, playful GIFs? I'm currently available for freelance illustration work - [email me](mailto:vicky.hughes@hotmail.com) to get in touch!
