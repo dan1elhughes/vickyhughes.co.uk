@@ -22,6 +22,9 @@ I'm currently available for freelance illustration work - **[email me](mailto:vi
 *"Receiving the first sketches from Vicky is always so exciting. Vicky has great ability to take a brief and interpret it in a creative way that works for our brand. Her illustrations are always full of personality and brighten up our work. We're always receiving compliments on them. As well as all this Vicky always delivers on time and within budget, I would recommend her to anyone, in a heartbeat!"* - Samantha Gane, Senior Customer Marketing Manager at Geckoboard.
 
 
+*"Absolutely LOVE! You've done a brilliant job with this. Great colours too 🙂 A massive thank you for your time and hard-work on this. It's been a pleasure working with you and would gladly do so again."* - Lauren Debono-Elliot, Art Editor at Popshot Magazine.
+
+
 *"We can’t thank you enough for your illustrations, they are beautiful and we can’t wait to work with them."* - Abbi Fletcher, Post-Grad Community & Events Coordinator at University of the Arts London.
 
 
