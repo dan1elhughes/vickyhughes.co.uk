@@ -1,12 +1,13 @@
 ---
-title: "Map reading"
+title: "Map reading illustration"
 date: 2021-02-01
-image: mapreading-900.png
+image: map-reading-illustration.png
 tags:
 images:
-  - mapreading-900.png
+  - map-reading-illustration.png
 ---
 
-An illustrated club of adventurers seeking treasure using their treasure map. Personal work.
+An illustrated club of adventurers seeking treasure using their treasure map. This is personal work inspired by my love of setting out on a hike with only potentially unreliable or outdated route instructions from the internet.
 
-I'm currently available for freelance illustration work - [email me](mailto:vicky.hughes@hotmail.com) to get in touch!
+### Hire me to work with your brand
+Are you looking for playful, unique artwork? I'm currently available for freelance illustration jobs - [email me](mailto:vicky.hughes@hotmail.com) to get in touch!
