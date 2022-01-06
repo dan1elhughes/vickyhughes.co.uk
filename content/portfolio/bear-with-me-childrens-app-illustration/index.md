@@ -5,11 +5,11 @@ image: bear-with-me-childrens-app-illustration-1.jpg
 tags:
 images:
   - bear-with-me-childrens-app-illustration-2.jpg
-  bear-with-me-childrens-app-illustration-3.jpg
-  bear-with-me-childrens-app-illustration-4.jpg
-  bear-with-me-childrens-app-illustration-5.jpg
-  bear-with-me-childrens-app-illustration-6.jpg
-  bear-with-me-childrens-app-illustration-7.jpg
+  - bear-with-me-childrens-app-illustration-3.jpg
+  - bear-with-me-childrens-app-illustration-4.jpg
+  - bear-with-me-childrens-app-illustration-5.jpg
+  - bear-with-me-childrens-app-illustration-6.jpg
+  - bear-with-me-childrens-app-illustration-7.jpg
 ---
 
 An illustrated children's book for [Fonetti](https://www.fonetti.com/); an app which harnesses tech to help kids learn to read.
