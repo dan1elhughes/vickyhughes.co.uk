@@ -13,3 +13,5 @@ She's typing furiously but I'll leave it up to you to decide: is she happy to be
 
 # Hire me to work with your brand
 Are you looking for unique, illustrative GIFs for your brand? I'm currently available for freelance illustration work - [email me](mailto:vicky.hughes@hotmail.com) to get in touch!
+
+*"Amazing! They've actually brightened my day, they look incredible."* - Daisy Griffiths, Content Editor at Auris Tech.
