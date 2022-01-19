@@ -6,6 +6,7 @@ tags:
 images:
   - food-drink-spot-illustration-set.png
   - magazine_mockup.png
+  - food-drink-full-page-illustration.jpg
 ---
 
 A self-initiated editorial series of spot illustrations, and a full page, on the food and drink industry in 2021.
