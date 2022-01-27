@@ -1,6 +1,6 @@
 ---
 title: "Customer support ebook cover"
-date: 2021-01-22
+date: 2021-01-01
 image: customer-experience-report-2021-ebook-cover.png
 tags:
 images:
