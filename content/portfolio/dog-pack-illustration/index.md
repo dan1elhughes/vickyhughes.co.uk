@@ -1,6 +1,6 @@
 ---
 title: "Pack goals - dog illustration"
-date: 2021-12-05
+date: 2022-01-02
 image: pack-goals.jpg
 tags:
 images:
