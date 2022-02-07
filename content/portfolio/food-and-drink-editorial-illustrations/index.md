@@ -1,6 +1,6 @@
 ---
 title: "Food and drink editorial illustrations"
-date: 2021-12-05
+date: 2022-02-07
 image: food-drink-full-page-illustration.jpg
 tags:
 images:
