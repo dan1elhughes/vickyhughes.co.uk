@@ -1,7 +1,7 @@
 ---
 title: "Food and drink editorial illustrations"
 date: 2022-01-02
-image: magazine_mockup.png
+image: food-drink-full-page-illustration.jpg
 tags:
 images:
   - food-drink-spot-illustration-set.png
