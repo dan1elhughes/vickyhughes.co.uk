@@ -1,6 +1,6 @@
 ---
 title: "Good Club zero waste groceries rebrand"
-date: 2021-01-23
+date: 2022-01-02
 image: goodclub-groceries-icons-reel.gif
 tags:
 images:
