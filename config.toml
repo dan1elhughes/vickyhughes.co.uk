@@ -14,8 +14,8 @@ dateformat = "Jan 2, 2006"
 
 ## Uncomment to enable the top banner.
 [params.banner]
-text = "Shop on Etsy"
-link = "https://www.etsy.com/uk/shop/VictoriaIllustration"
+text = "Sign up to my newsletter"
+link = "https://mailchi.mp/40f248324de5/newsletter"
 
 [params.unpkg]
 css = [
@@ -37,14 +37,19 @@ url = "/portfolio/"
 weight = 1
 
 [[params.nav]]
+identifier = "shop"
+url = "https://www.etsy.com/uk/shop/vickyhughesillo"
+weight = 2
+
+[[params.nav]]
 identifier = "about"
 url = "/about/"
-weight = 2
+weight = 3
 
 [[params.nav]]
 identifier = "contact"
 url = "/contact/"
-weight = 3
+weight = 4
 
 # Enable inline HTML in Markdown files (Hugo >0.64)
 [markup.goldmark.renderer]
