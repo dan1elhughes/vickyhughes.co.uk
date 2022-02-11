@@ -14,4 +14,4 @@ The first one was a #tacotuesday vibe - this GIF captures a few memorable moment
 
 ### Hire me to work with your brand
 
-Are you looking for custom recipe illustrations? I'm currently available for freelance illustration work - [email me](mailto:vicky.hughes@hotmail.com) to get in touch!
+Are you looking for custom recipe illustrations? I'm currently available for freelance illustration work - [email me](mailto:vicky@vickyhughes.co.uk) to get in touch!

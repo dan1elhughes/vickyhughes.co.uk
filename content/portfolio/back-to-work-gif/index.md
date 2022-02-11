@@ -12,4 +12,4 @@ This hand drawn GIF was created at the end of summer - summarising my general mo
 She's typing furiously but I'll leave it up to you to decide: is she happy to be back in the swing of things, or stressed and typing fast amid office chaos?
 
 ### Hire me to work with your brand
-Are you looking for unique, illustrative GIFs for your brand? I'm currently available for freelance illustration work - [email me](mailto:vicky.hughes@hotmail.com) to get in touch!
+Are you looking for unique, illustrative GIFs for your brand? I'm currently available for freelance illustration work - [email me](mailto:vicky@vickyhughes.co.uk) to get in touch!
