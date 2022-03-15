@@ -1,14 +1,14 @@
 ---
 title: "Shoppers illustration"
 date: 2021-01-27
-image: shoppers-illustration-preview.jpg
+image: shoppers-illustration-preview.png
 tags:
 images:
-  - shoppers-illustration-preview.jpg
+  - shoppers-illustration-preview.png
   - shoppers-xmas-market.png
 ---
 
-A personal favourite illustration of mine. A Christmas remixed version was licensed for promoting the UAL post-grad holiday market in 2020. 
+Illustrated characters off to hit the shops. A Christmas remixed version was licensed for promoting the UAL post-grad holiday market in 2020. 
 
 ### Hire me to work with your brand
 Are you looking for unique artwork to promote your brand or event? I'm currently available for freelance illustration jobs - [email me](mailto:vicky@vickyhughes.co.uk) to get in touch!

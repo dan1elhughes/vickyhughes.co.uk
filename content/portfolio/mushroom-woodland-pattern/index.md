@@ -1,6 +1,6 @@
 ---
 title: "Mushroom pattern illustration"
-date: 2021-02-01
+date: 2021-01-27
 image: mushroom-pattern-illustration.jpg
 tags:
 images:
