@@ -1,6 +1,6 @@
 ---
 title: "Playful animated recipe illustrations"
-date: 2021-01-28
+date: 2021-01-21
 image: taco-animated-recipe.gif
 tags:
 images:

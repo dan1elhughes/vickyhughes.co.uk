@@ -1,6 +1,6 @@
 ---
 title: "Skincare editorial illustrations"
-date: 2021-01-03
+date: 2021-01-26
 image: vicky-hughes-skincare-editorial-summary.png
 tags:
 images:

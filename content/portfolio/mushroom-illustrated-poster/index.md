@@ -1,6 +1,6 @@
 ---
 title: "Illustrated mushroom poster"
-date: 2021-02-01
+date: 2021-01-26
 image: illustrated-mushroom-poster.jpg
 tags:
 images:
