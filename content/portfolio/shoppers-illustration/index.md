@@ -1,10 +1,10 @@
 ---
 title: "Shoppers illustration"
 date: 2021-01-27
-image: shoppers-illustration-preview.jpg
+image: shoppers-illustration-preview.png
 tags:
 images:
-  - shoppers-illustration-preview.jpg
+  - shoppers-illustration-preview.png
   - shoppers-xmas-market.png
 ---
 
