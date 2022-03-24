@@ -9,9 +9,9 @@ Based in Leeds, I design adventurous, playful graphics to empower and inspire. M
 
 Since **[graduating from Camberwell College of Arts](https://www.arts.ac.uk/study-at-ual/postgraduate-study/postgraduate-community/stories/spotlight-on-illustrator,-vicky-hughes)**, I have worked as a freelance illustrator across editorial, tech and publishing, as well as creating and selling illustrated goods. When I’m not on the road in my campervan, I work from my home studio overlooking the garden, with diligent assistance from my rescue dog Kali.
 
-I'm currently available for freelance illustration work - **[email me](mailto:vicky.hughes@hotmail.com)** to get in touch!
+I'm currently available for freelance illustration work - **[email me](mailto:vicky@vicky.hughes.co.uk)** to get in touch!
 
-## What my clients say
+## What clients say
 
 *"Vicky’s a joy to work with. She listens to the brief, always comes back brimming with ideas, and delivers when she says she’s going to. And of course, her illustrations are great!"* - **Tom Randle, CEO of Geckoboard.**
 
