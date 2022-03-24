@@ -3,4 +3,4 @@ title: "Contact"
 type: "contact"
 ---
 
-You can also contact me directly at [vicky.hughes@hotmail.com](vicky.hughes@hotmail.com).
+You can also contact me directly at [vicky@vickyhughes.co.uk](vicky@vickyhughes.co.uk).
