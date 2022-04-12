@@ -9,7 +9,6 @@ images:
   - treehouse-window-mural-3.jpeg
   - treehouse-window-mural-4.jpeg
   - treehouse-window-mural-5.jpeg
-  - treehouse-window-mural-6.jpeg
   - treehouse-window-mural-7.jpeg
   - treehouse-window-mural-8.jpeg
   - treehouse-window-mural-9.jpeg
