@@ -1,6 +1,6 @@
 ---
 title: "Illustration led rebrand for pizzeria"
-date: 2022-04-21
+date: 2022-01-02
 image: illustrated-pizza-boxes.png
 tags:
 images:
