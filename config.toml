@@ -11,6 +11,7 @@ googleAnalytics = "UA-142187310-1"
 contactEmail = "vicky.hughes@hotmail.com"
 fontConfig = "Montserrat"
 dateformat = "Jan 2, 2006"
+description = "Characterful illustrations for growing brands, specialising in playful images and GIFs."
 
 ## Uncomment to enable the top banner.
 [params.banner]
