@@ -29,7 +29,6 @@ js = [
 
 [params.social]
 instagram = "https://instagram.com/vickymadethis"
-etsy = "https://www.etsy.com/uk/shop/VictoriaIllustration"
 pinterest = "https://www.pinterest.co.uk/vickymadethis"
 
 [[params.nav]]
@@ -39,7 +38,7 @@ weight = 1
 
 [[params.nav]]
 identifier = "shop"
-url = "https://www.etsy.com/uk/shop/vickyhughesillo"
+url = "/store/"
 weight = 2
 
 [[params.nav]]
