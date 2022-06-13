@@ -1,7 +1,7 @@
 ---
 title: "Vanlife illustrated pattern"
 date: 2021-01-28
-image: Wildcamping-preview.png
+image: wild-wrap-mockup.png
 tags:
 images:
   - Wildcamping.png

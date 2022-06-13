@@ -9,7 +9,7 @@ images:
   - risos-mushrooms-pasta.jpg
 ---
 
-An editorial illustration for an article on the impact of social media on one's mental health.
+A set of foodie themed RISO prints to be sold at my pop-up stall at Kirkgate Market.
 
 ### Hire me to work with your brand
-Are you looking for characterful editorial illustrations? I'm currently available for freelance work - [email me](mailto:vicky@vickyhughes.co.uk) to get in touch!
+Are you looking for bold, fun illustrations? I'm currently available for freelance work - [email me](mailto:vicky@vickyhughes.co.uk) to get in touch!
