@@ -6,7 +6,7 @@ tags:
 images:
   - covidaid-stories.jpg
   - covidaid-illustrated-instagram-post.jpg
-  - covidaid-illustration-grid.png
+
 ---
 
 Illustrated social media posts for Covid Aid (the UK's covid-19 charity).
