@@ -1,9 +1,10 @@
 ---
 title: "Chocolate packaging illustrations"
-date: 2022-01-04
-image: chocolate-packaging-illustrations.png
+date: 2021-01-08
+image: chocolate-packaging-illustrations2.png
 tags:
 images:
+  - chocolate-packaging-illustrations2.png
   - chocolate-packaging-illustrations.png
 ---
 

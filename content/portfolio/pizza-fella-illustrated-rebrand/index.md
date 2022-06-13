@@ -1,12 +1,20 @@
 ---
 title: "Illustration led rebrand for pizzeria"
-date: 2021-02-01
-image: illustrated-pizza-boxes.png
+date: 2021-01-17
+image: vickyhughes-pizzafella-boxes.jpg
 tags:
 images:
-  - illustrated-pizza-boxes.png
-  - pizza-fella-icons-2.png
-  - pizza-fella-icons-1.png
+  - vickyhughes-pizzafella-iconset.jpg
+  - vickyhughes-pizzafella-boxes.jpg
+  - vickyhughes-pizzafella-volcano.gif
+  - vickyhughes-pizzafella-greaseproof.jpg
+  - vickyhughes-pizzafella-window-sign.jpg
+  - vickyhughes-pizzafella-fb1.jpg
+  - vickyhughes-pizzafella-handstand.gif
+  - vickyhughes-pizzafella-menu.jpg
+  - vickyhughes-pizzafella-storefront.jpg
+  - vickyhughes-pizzafella-truck.gif
+  - vickyhughes-pizzafella-fb2.jpg
 ---
 
 A self-initiated, illustration led rebrand of a local pizzeria. The results include a logo, pizza box designs, a pattern for greaseproof paper, an illustrated menu and a set of illustrations to be used across social media and other pizza marketing!
