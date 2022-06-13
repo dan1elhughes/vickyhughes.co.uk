@@ -4,7 +4,6 @@ date: 2021-01-03
 image: pack-goals.jpg
 tags:
 images:
-  - pack-goals.jpg
   - packgoalsprint2.jpg
 ---
 
