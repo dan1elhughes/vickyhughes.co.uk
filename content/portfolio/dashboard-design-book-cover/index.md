@@ -1,6 +1,6 @@
 ---
 title: "Dashboard design ebook cover"
-date: 2021-01-29
+date: 2021-01-02
 image: dashboard-design-book-cover.png
 tags:
 images:

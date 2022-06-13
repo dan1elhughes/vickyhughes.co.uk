@@ -1,6 +1,6 @@
 ---
 title: "Illustration led rebrand for pizzeria"
-date: 2022-06-09
+date: 2021-01-17
 image: vickyhughes-pizzafella-boxes.jpg
 tags:
 images:

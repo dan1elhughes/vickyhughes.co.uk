@@ -1,6 +1,6 @@
 ---
 title: "Social media and mental health editorial illustration"
-date: 2022-04-12
+date: 2021-01-07
 image: covidaid-instagram-story.gif
 tags:
 images:

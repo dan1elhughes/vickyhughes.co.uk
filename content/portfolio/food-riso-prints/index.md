@@ -1,6 +1,6 @@
 ---
 title: "Foodie RISO prints"
-date: 2022-06-13
+date: 2021-01-12
 image: food-riso-prints-loop.gif
 tags:
 images:
