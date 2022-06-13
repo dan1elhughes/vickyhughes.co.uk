@@ -1,6 +1,6 @@
 ---
 title: "Marketing poster for Natural History Museum exhibition"
-date: 2021-01-18
+date: 2021-01-11
 image: animated-bus-shelter-mockup.gif
 tags:
 images:
