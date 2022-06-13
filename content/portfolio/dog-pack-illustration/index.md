@@ -5,6 +5,7 @@ image: pack-goals.jpg
 tags:
 images:
   - pack-goals.jpg
+  - packgoalsprint2.jpg
 ---
 
 Personal work - inspired by my dog's friends at the local park.
