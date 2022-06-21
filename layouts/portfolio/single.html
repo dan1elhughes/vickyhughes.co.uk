@@ -1,18 +1,36 @@
 {{ define "title" }}{{ .Title }} &ndash; {{ .Site.Title }}{{ end }}
 
+{{ define "js" }}
+<script>
+  function keydown(e) {
+      switch (e.key) {
+        {{ with .PrevInSection }}
+        case "ArrowRight":
+          window.location.href = ("{{ .RelPermalink }}");
+          break;
+        {{ end }}
+
+        {{ with .NextInSection }}
+        case "ArrowLeft":
+          window.location.href = ("{{ .RelPermalink }}");
+          break;
+        {{ end }}
+      }
+  }
+  window.addEventListener("keydown", keydown);
+</script>
+{{ end }}
+
 {{ define "main" }}
 <article class="portfolio">
   <div class="split-container">
     <div class="left">
-      <header>
-        {{ partial "titlesection" . }}
-      </header>
-      {{ partial "tags.html" . }}
-      {{ .Content }}
+      <header>{{ partial "titlesection" . }}</header>
+      {{ partial "tags.html" . }} {{ .Content }}
     </div>
     <div class="right">
       {{ range .Params.Images }}
-        <img src="{{.}}"/>
+      <img src="{{.}}" />
       {{ end }}
     </div>
   </div>
