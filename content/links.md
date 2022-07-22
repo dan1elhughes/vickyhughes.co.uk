@@ -5,7 +5,7 @@ hidenav: true
 ---
 
 - [Portfolio](https://vickyhughes.co.uk)
-- [Society6 shop](https://society6.com/vickymadethis)
+- [Society6 shop](https://society6.com/vickymadethis?curator=vickymadethis)
 - [Shop](https://vickyhughes.co.uk/shop)
 - [Sign up for my newsletter](https://mailchi.mp/8dcebb7ee0b4/shop-updates-signup-form)
 - [Buy cards at Thortful](https://www.thortful.com/profile/6120f20f6841ed00018dcc54)
