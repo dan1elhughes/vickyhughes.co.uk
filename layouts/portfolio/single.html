@@ -1,6 +1,5 @@
-{{ define "title" }}{{ .Title }} &ndash; {{ .Site.Title }}{{ end }}
-
-{{ define "js" }}
+{{ define "title" }}{{ .Title }} &ndash; {{ .Site.Title }}{{ end }} {{ define
+"js" }}
 <script>
   function keydown(e) {
       switch (e.key) {
@@ -19,20 +18,20 @@
   }
   window.addEventListener("keydown", keydown);
 </script>
-{{ end }}
-
-{{ define "main" }}
+{{ end }} {{ define "main" }}
 <article class="portfolio">
-  <div class="split-container">
-    <div class="left">
+  <ul class="grid">
+    <li>
       <header>{{ partial "titlesection" . }}</header>
       {{ partial "tags.html" . }} {{ .Content }}
-    </div>
-    <div class="right">
-      {{ range .Params.Images }}
-      <img src="{{.}}" />
-      {{ end }}
-    </div>
-  </div>
+    </li>
+    {{ range .Resources.ByType "image" }}
+    <li>
+      <div class="Image">
+        <img src="{{ .RelPermalink }}" />
+      </div>
+    </li>
+    {{ end }}
+  </ul>
 </article>
 {{ end }}
