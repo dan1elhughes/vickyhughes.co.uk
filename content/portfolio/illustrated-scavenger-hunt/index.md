@@ -1,6 +1,6 @@
 ---
 title: "Illustrated scavenger hunt"
-date: 2021-01-20
+date: 2021-01-17
 image: illustrated-scavenger-hunt-1b.gif
 tags:
 images:
