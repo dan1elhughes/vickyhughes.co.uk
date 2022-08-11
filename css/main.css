@@ -160,7 +160,7 @@ article {
 
 article img {
   max-width: 100%;
-  display: block;
+  display: flex;
   border-radius: 4px;
 }
 article > div {
