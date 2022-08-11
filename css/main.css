@@ -32,9 +32,6 @@ a {
   text-decoration: none;
   transition: background var(--duration);
 }
-a:hover {
-  background: var(--theme);
-}
 
 header.site-header {
   background: white;
