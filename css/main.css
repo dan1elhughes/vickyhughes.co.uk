@@ -155,7 +155,8 @@ ul.grid a img:hover {
 }
 
 article {
-  padding: 20rem;
+  padding: 2rem;
+  display: flex;
 }
 
 article img {
