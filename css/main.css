@@ -108,6 +108,7 @@ ul.grid {
   padding: 0;
   width: 100%;
   list-style: none;
+  display: flex;
 }
 
 ul.grid li {
@@ -160,7 +161,7 @@ article {
 
 article img {
   max-width: 100%;
-  display: flex;
+  display: block;
   border-radius: 4px;
 }
 article > div {
