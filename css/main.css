@@ -156,8 +156,7 @@ ul.grid a img:hover {
 
 article {
   padding: 2rem;
-  display:block;
-  margin:0 auto;
+  margin: auto;
 }
 
 article img {
