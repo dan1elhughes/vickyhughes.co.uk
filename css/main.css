@@ -32,9 +32,6 @@ a {
   text-decoration: none;
   transition: background var(--duration);
 }
-a:hover {
-  background: var(--theme);
-}
 
 header.site-header {
   background: white;
@@ -156,7 +153,6 @@ ul.grid a img:hover {
 
 article {
   padding: 2rem;
-  margin: auto;
 }
 
 article img {
