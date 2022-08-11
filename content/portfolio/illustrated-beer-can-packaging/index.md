@@ -1,12 +1,12 @@
 ---
 title: "Illustrated beer can packaging"
 date: 2021-01-19
-image: pluck_pluck_pluck_beer_can.png
+image: illustrated-beer-can-1.png
 tags:
 images:
-  - high_peak_beer_can.png
-  - pluck_pluck_pluck_beer_can.png
-  - illustrated_beer_cans.jpg
+  - illustrated-beer-can-1.png
+  - illustrated-beer-can-2.png
+  - illustrated-beer-can-3.png
   - pluck_pluck_pluck_throw.jpeg
 ---
 
