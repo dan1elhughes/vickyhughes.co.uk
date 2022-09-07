@@ -1,7 +1,7 @@
 ---
 title: "Illustrated cinema poster"
 date: 2021-01-22
-image: illustrated_cinema_poster.png
+image: taped-illustrated-poster.png
 tags:
 images:
   - illustrated_cinema_poster.png
