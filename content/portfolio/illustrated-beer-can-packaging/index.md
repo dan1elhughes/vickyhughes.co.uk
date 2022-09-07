@@ -1,7 +1,7 @@
 ---
 title: "Illustrated beer can packaging"
 date: 2021-01-19
-image: illustrated-beer-can-1.png
+image: animated_beer_can_illustrated.gif
 tags:
 images:
   - illustrated-beer-can-1.png
